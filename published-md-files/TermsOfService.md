@@ -1,12 +1,11 @@
-**Terms & Conditions**
+# Terms & Conditions #
 
-Please read these Terms carefully before participating on our launch platform. These Terms tell you who we are, what we offer, what to do if there is a problem, and other important information. If you think that there is a mistake in these Terms, please contact us to discuss at forum.prime.xyz
+Please read these Terms carefully before participating on the Prime Deals platform. These Terms tell you who we are, what we offer, what to do if there is a problem, and other important information. If you think that there is a mistake in these Terms, please contact us to `discuss` at `forum.prime.xyz`
 
-**WHO WE ARE AND HOW TO CONTACT US**
+## WHO WE ARE AND HOW TO CONTACT US
+1.1. Prime Deals is operated by PrimeDAO ("We"). We are an Ethereum based organization managed by community members. To contact us, please write to us via the Prime Deals subcategory of forum.prime.xyz
 
-1.1. Prime Launch is operated by PrimeDAO ("We"). We are an Ethereum based organisation managed by community members. To contact us, please write to us via the Prime Launch subcategory of forum.prime.xyz
-
-1.2. We use open source products and developer materials from Balancer Labs, Prime Development Foundation and affiliated (legal) persons ("Affiliates"), as well as from other third parties to provide a platform (the "Platform") to interact with different protocols, such as the Balancer Protocol (together: the "Protocol"). The Platform is autonomous, and acts independently from the providers of Protocol.
+1.2. We use open source products and developer materials from Prime Development Foundation, and affiliated (legal) persons ("Affiliates"), as well as from other third parties to provide a platform (the "Platform") to interact with different protocols, such as the Balancer Protocol (together: the "Protocol"). The Platform is autonomous and acts independently from the providers of Protocol.
 
 **WE PROVIDE A PLATFORM TO INTERACT WITH THIRD PARTY PROTOCOLS**
 
@@ -28,23 +27,23 @@ Please read these Terms carefully before participating on our launch platform. T
 
 3.5. We may terminate or suspend your access to our Platform immediately, without prior notice or liability, if you breach any clause of the Terms. Upon termination of your access, your right to use the Platform will immediately cease. Clauses 7 through 20 survive termination of these Terms.
 
-3.6. You may have been referred to the Platform by a third party. We are not liable for any agreement or terms that may exist between you and such third party.
+3.6. You may have been referred to the Platform by a third party. We are not liable for any agreement or terms that may exist between you and such a third party.
 
 **WHAT YOU NEED TO USE OUR PLATFORM**
 
-4.1. A detailed step-by-step guide on how to use the Platform can be found in the "Prime Launch Documentation - ADD LINK" section on the Platform.
+4.1. A detailed step-by-step guide on how to use the Platform can be found in the "Prime Deals Documentation - https://www.prime.xyz/deals/docs" section on the Platform.
 
 4.2	To use the Platform, you need:
 
 4.2.1. A wallet compatible with the Ethereum Blockchain or Ethereum Virtual Machine compatible validation mechanisms. We currently only support MetaMask, Torus and WalletConnect compatible wallets. We have not tested compatibility with any other wallets.
 
-4.2.2. An ERC 20 token for participation in a launch. 
+4.2.2. An ERC 20 token for participation in a deal. 
 
-4.2.3. Depending on whether you interact with Prime Launch on Ethereum Mainnet or Ethereum Virtual Machine compatible validation mechanisms, sufficient ETH must be in your Wallet to pay for transactions fees, which are incurred through the Protocol and on the Blockchain.
+4.2.3. Depending on whether you interact with Prime Deals on Ethereum Mainnet or Ethereum Virtual Machine compatible validation mechanisms, sufficient ETH must be in your Wallet to pay for transactions fees, which are incurred through the Protocol and on the Blockchain.
 
 **FEES LEVIED BY US**
 
-5.1. We do not currently levy any fees on users who participate in a launch on Prime Launch.
+5.1. We do not currently levy any fees on users who participate in a deal on Prime Deals.
 
 5.2. The Protocol might require a contribution of any kind, if so described.
 
@@ -70,7 +69,7 @@ Please read these Terms carefully before participating on our launch platform. T
 
 9.1. Subject to the application of the GNU Lesser General Public License v3.0 to the software code of the Platform, we are the owner or the licensee of all intellectual property rights of the Platform. Those works are protected by intellectual property laws and treaties around the world. All such rights are reserved.
 
-9.2. Subject to your compliance with these Terms, we grant you a limited, revocable, non-exclusive, non-transferable, non-sublicensable licence to access the Platform. This licence does not include any resale, commercial or derivative use of our Platform. We reserve and retain all rights not expressly granted to you in these Terms. The Platform may not be reproduced, sold, or otherwise exploited for any commercial purpose without our express prior written consent. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information of us without our express prior written consent. You may not misuse the Platform and may only use it as permitted by law. If you breach our intellectual property rights in violation of these Terms, your license to use our Platform will automatically be revoked and terminated immediately.
+9.2. Subject to your compliance with these Terms, we grant you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to access the Platform. This license does not include any resale, commercial or derivative use of our Platform. We reserve and retain all rights not expressly granted to you in these Terms. The Platform may not be reproduced, sold, or otherwise exploited for any commercial purpose without our express prior written consent. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information of us without our express prior written consent. You may not misuse the Platform and may only use it as permitted by law. If you breach our intellectual property rights in violation of these Terms, your license to use our Platform will automatically be revoked and terminated immediately.
 
 **WE ARE NOT RESPONSIBLE FOR BUGS AND YOU MUST NOT INTRODUCE THEM**
 
@@ -78,7 +77,7 @@ Please read these Terms carefully before participating on our launch platform. T
 
 10.2. You are responsible for configuring your information technology and computer programmes to access our Platform. You should use your own virus protection software.
 
-10.3. You must not misuse our Platform by knowingly introducing material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Platform, any server on which our Platform may be stored, computer or database connected to our Platform. You must not attack our Platform via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence. We will report any such breach to the relevant law enforcement authorities and we will cooperate with those authorities, including, where possible, by disclosing your identity to them. In the event of such a breach, your right to use our Platform will cease immediately.
+10.3. You must not misuse our Platform by knowingly introducing material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Platform, any server on which our Platform may be stored, computer or database connected to our Platform. You must not attack our Platform via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offense. We will report any such breach to the relevant law enforcement authorities and we will cooperate with those authorities, including, where possible, by disclosing your identity to them. In the event of such a breach, your right to use our Platform will cease immediately.
 
 **RULES ABOUT YOU LINKING TO OUR PLATFORM**
 
@@ -142,7 +141,7 @@ Please note that we only provide our platform for domestic and private use. You 
 
 **HOW TO RESOLVE COMPLAINTS AND DISPUTES**
 
-15.1. If an alleged breach, controversy, claim, dispute or difference arises out of or in connection with the present Terms between you and us (a "Dispute"), you agree to seek to resolve the matter with us amicably by referring the matter first to Prime Launch subcategory of forum.prime.xyz, with a detailed description, the date and time the issue arose, your handle to contact you on and the outcome you are seeking.
+15.1. If an alleged breach, controversy, claim, dispute or difference arises out of or in connection with the present Terms between you and us (a "Dispute"), you agree to seek to resolve the matter with us amicably by referring the matter first to Prime Deals subcategory of forum.prime.xyz, with a detailed description, the date and time the issue arose, your handle to contact you on and the outcome you are seeking.
 
 15.2. In the event a Dispute cannot be resolved amicably in accordance with clause 15.1, you must first refer the Dispute to proceedings under the International Chamber of Commerce ("ICC") Mediation Rules, which Rules are deemed to be incorporated by reference into this clause 15. The place of mediation shall be Willemstad, Curaçao. The language of the mediation proceedings shall be English.
 
@@ -154,7 +153,7 @@ Please note that we only provide our platform for domestic and private use. You 
 
 **THIRD PARTY BENEFICIARIES**
 
-17.1. These Terms also apply to the benefit of Affiliates and also encompasses Protocol related matters in this context.
+17.1. These Terms also apply to the benefit of Affiliates and also encompasses Protocol-related matters in this context.
 
 17.2. Subject to clause 17.1, these terms do not give rise to any third-party rights, which may be enforced against us.
 
@@ -177,10 +176,6 @@ Please note that we only provide our platform for domestic and private use. You 
 **APPENDIX**
 
 **RISKS**
-
-**PRICE FLUCTUATIONS**
-
-ERC20 tokens are neither legal tender backed by governments nor by assets. The tokens' value is highly volatile causing price fluctuations, as auctions typically run for some time and trades are not executed instantly.
 
 **REGULATORY ACTION**
 
