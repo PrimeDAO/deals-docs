@@ -1,4 +1,4 @@
-# Terms & Conditions #
+# Terms & Conditionss #
 
 Please read these Terms carefully before participating on the Prime Deals platform. These Terms tell you who we are, what we offer, what to do if there is a problem, and other important information. If you think that there is a mistake in these Terms, please contact us to `discuss` at `forum.prime.xyz`
 
