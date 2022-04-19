@@ -80,7 +80,7 @@ Please read these Terms carefully before participating on the Prime Deals platfo
 
 10.3. You must not misuse our Platform by knowingly introducing material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Platform, any server on which our Platform may be stored, computer or database connected to our Platform. You must not attack our Platform via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offense. We will report any such breach to the relevant law enforcement authorities and we will cooperate with those authorities, including, where possible, by disclosing your identity to them. In the event of such a breach, your right to use our Platform will cease immediately.
 
-## RULES ABOUT YOU LINKING TO OUR PLATFORM ##
+## RULES ABOUT YOU LINKING TO OUR PLATFORM (TEST)
 
 11.1. You may link to our Platform, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists. You must not establish a link to our Platform in any website without the website’s authorization.
 
