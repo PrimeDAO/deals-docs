@@ -1,7 +1,7 @@
 {
     "documents": [{
             "title": "Getting Started",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/getting-started.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/getting-started.md"
         },
         {
             "title": "Host A Launch",
