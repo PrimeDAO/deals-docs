@@ -1,28 +1,28 @@
-## Create a Partnered Deal
+# Create a Partnered Deal
 
 The wizard will guide you through the process of creating a Partnered Deal. 
 
-Please note that you can always come back to edit your input before you click the ’SUBMIT’ ****button on the last step of the wizard.
+Please note that you can always come back to edit your input before you click the ’SUBMIT’ button on the last step of the wizard.
 
 You can follow the example of a Partnered Deal linked here (TODO add anchor) as a template for your deal.
 
-### Token Swap Proposal
+## Token Swap Proposal
 
 1. Provide a clear **Proposal Title** that capture the essence of the deal you want to offer (max 60 ch.)
 2. Provide a brief outline of the Token Swap deal in the **Proposal Summary** box **(max 350 ch.)**
 3. In the **Proposal Description** provide the details, background and features of your Token Swap proposal. Explain why it's particularly valuable or unique.
 
-### Lead Details
+## Lead Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click ‘MAKE ME THE PROPOSAL LEAD’. 
-    - To learn more about the role and rights of a Proposal Lead please see here. (TODO ADDL INK FAQ)
-2. Provide the **Contact E-mail (optional)**
-3. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
-    - Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
-    - You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representatives can discuss the clauses, regardless if the deal is public or private.
-    - A negotiated deal that has been turned public can be turned back into private, and vice versa.
+    * To learn more about the role and rights of a Proposal Lead please see here. (TODO ADDL INK FAQ)
+3. Provide the **Contact E-mail (optional)**
+4. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
+    * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
+    * You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representatives can discuss the clauses, regardless if the deal is public or private.
+    * A negotiated deal that has been turned public can be turned back into private, and vice versa.
 
-### Primary DAO Details
+## Primary DAO Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click ‘MAKE ME THE PROPOSAL LEAD’. 
     - To learn more about the role and rights of a Proposal Lead please see here. (TODO ADDL INK FAQ)
@@ -61,7 +61,7 @@ For each type of token that a DAO want to swap you’d need to provide these det
 4. The **Funding Period**
     - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representatives and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes in consideration the time needed to pass the deals through the governance processes of both parties.
 
-### Terms
+## Terms
 
 In this section you have to provide all the important clauses of your proposal (max. 10). Please be specific and clear so that everyone can understand the terms of the agreement between the parties involved. This document can serve as a single source of truth for future reference.
 
@@ -73,15 +73,15 @@ In this section you have to provide all the important clauses of your proposal (
 
 Click ‘PROCEED’ at the bottom of the page to move onto the next section
 
-### Submit
+## Submit
 
 In this section you can visualize a summary of all the information you have input. Please, inspect all parts of the summary byword and make sure they precisely reflect what you want to propose. If you spot an error, you can navigate to previous sections of this wizard to correct them before submitting your proposal. It's your responsibility to verify that all the relevant information is correct (e.g. Treasury address, Deal Representative addresses, Token addresses, Token amount, etc.). PrimeDAO don't offer any validation process to verify your input. For instance, it cannot verifies whether a treasury address is related to a certain DAO. 
 
 When you are ready click ‘SUBMIT’. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.
 
-## Example of a Partnered Deal input
+# Example of a Partnered Deal input
 
-### Proposal Title
+## Proposal Title
 
 Examples:
 
@@ -91,7 +91,7 @@ Examples:
 > Token Swap Agreement ADAO <> BDAO
 > 
 
-### Proposal Summary
+## Proposal Summary
 
 - State the general reasons for what this token swap aims to achieve. Is it to align interests, to collaborate on a strategy, to build together, to participate in a program?
     
@@ -106,7 +106,7 @@ Examples:
     > DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO.
     > 
 
-### Proposal Description
+## Proposal Description
 
 Give a background of the communication and relationship between two DAOs. 
 
@@ -139,7 +139,7 @@ Give an overview of the partnership and scope of collaboration.
     > After successfully going through the maturity stages of re-branding and raising seed funds, DAO1 has grown to over 30 full-time contributors and is ready to launch its product suite and solidify relationships with DAO2 with a token swap.
     > 
 
-### Clauses
+## Clauses
 
 Start the clause with a title, and then expand on it. This is a set of suggested dimensions to think about.
 
