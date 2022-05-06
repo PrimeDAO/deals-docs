@@ -1,5 +1,3 @@
-# <!--CORE CONCEPTS & FAQs-->
-
 # General FAQ
 
 ## How can I get in touch with the Prime Deals team?
