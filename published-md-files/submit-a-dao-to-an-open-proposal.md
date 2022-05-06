@@ -1,4 +1,4 @@
-## Submit a DAO as a Partner to an Open Proposal
+## Make an Offer to an Open Proposal
 
 If you are interested to submit a DAO as a partner to an Open Proposal you can follow these simple steps below.
 

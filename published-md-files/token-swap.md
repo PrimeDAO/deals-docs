@@ -4,7 +4,7 @@
 
 ## Prerequisite — Connect with your wallet and start the wizard
 
-[https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782761026](https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782761026)
+<video> <source src="https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4" type="video/mp4"></video>
 
 1. Visit [https://deals.prime.xyz/initiate](https://deals.prime.xyz/initiate) 
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Deals Terms of Service](https://deals.prime.xyz/terms-of-service). Make sure you are connected to the intended network (for the moment only Ethereum Mainnet is available).

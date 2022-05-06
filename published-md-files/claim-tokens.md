@@ -1,5 +1,4 @@
-
-## Claim tokens after a Swap has been executed
+## Claim tokens after a Swap
 
 If the deal has been executed on chain, as a Representative you can claim existing vested tokens after the Cliff period has ended (if existing). 
 
