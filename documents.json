@@ -12,8 +12,28 @@
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/token-swap-faq.md"
         },
         {
-            "title": "FAQ",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "title": "Smart Contract Architecture",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
+        },
+        {
+            "title": "Initiate and conduct a Token Swap",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/token-swap.md"
+        },
+        {
+            "title": "Create an Open Proposal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/open-proposal.md"
+        },
+        {
+            "title": "Create a Partnered Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/partnered-deal.md"
+        },
+        {
+            "title": "Smart Contract Architecture",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
+        },
+        {
+            "title": "Smart Contract Architecture",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
         }
     ]
 }
