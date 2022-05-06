@@ -28,12 +28,44 @@
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/partnered-deal.md"
         },
         {
-            "title": "Smart Contract Architecture",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
+            "title": "Submit a DAO as a Partner to an Open Proposal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/submit-a-dao-to-an-open-proposal.md"
         },
         {
-            "title": "Smart Contract Architecture",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
+            "title": "Edit an Existing Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/edit-a-deal.md"
+        },
+        {
+            "title": "Discuss the clauses of a Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/discuss-a-deal.md"
+        },
+        {
+            "title": "Vote on a Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/vote-on-a-deal.md"
+        },
+        {
+            "title": "Start the Funding phase of a Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/start-funding.md"
+        },
+        {
+            "title": "Fund a Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/fund-a-deal.md"
+        },
+        {
+            "title": "Execute a Deal",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/execute-a-deal.md"
+        },
+        {
+            "title": "Withdraw funds",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/withdraw-funds.md"
+        },
+        {
+            "title": "Claim tokens after a Swap has been executed",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/claim-tokens.md"
+        },
+        {
+            "title": "DEALS RESOURCES",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/resources.md"
         }
     ]
 }
