@@ -16,10 +16,10 @@ PrimeDAO can help you successfully craft your deal and offer you additional supp
 
 It’s also important to remember that PrimeDAO offers a few other products to support your DAO to evolve:
 
-- **Prime Rating**: quantify risk and quality of open finance protocols by providing a benchmark score.
-- **Prime Launch**: safely bootstrap your liquidity or seed your token.
-- **Prime Pools** (release in Q2-22)**:** DAO-governed liquidity pools that bridge liquidity between allied ecosystems and create index pools.
-- **Proposal Inverter** (release Q4-22)**:** a funding primitive that enables multiple groups or individuals to collaborate on common proposals.
+* **Prime Rating**: quantify risk and quality of open finance protocols by providing a benchmark score.
+* **Prime Launch**: safely bootstrap your liquidity or seed your token.
+* **Prime Pools** (release in Q2-22)**:** DAO-governed liquidity pools that bridge liquidity between allied ecosystems and create index pools.
+* **Proposal Inverter** (release Q4-22)**:** a funding primitive that enables multiple groups or individuals to collaborate on common proposals.
 
 ## How is PrimeDAO committed to open-source with Prime Deals?
 
