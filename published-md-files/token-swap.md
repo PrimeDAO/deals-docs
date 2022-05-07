@@ -4,9 +4,11 @@
 
 ## Prerequisite — Connect with your wallet and start the wizard
 
+
 <video controls; preload="auto"; width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4" type="video/mp4"></video>
 
-1. Visit [https://deals.prime.xyz/initiate](https://deals.prime.xyz/initiate) 
+
+1. Visit [https://deals.prime.xyz/initiate](https://deals.prime.xyz/initiate)
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Deals Terms of Service](https://deals.prime.xyz/terms-of-service). Make sure you are connected to the intended network (for the moment only Ethereum Mainnet is available).
     - You need to have a compatible wallet set up. Prime Deals connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
     - You will need to fund your wallet with some ETH for paying the transaction costs needed to setup the deal. Most wallets will give you instructions on how to acquire those tokens and ETH.
