@@ -4,13 +4,6 @@
 
 ## Prerequisite — Connect with your wallet and start the wizard
 
-<video width: 100% !important; height: auto !important; controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4" type="video/mp4">
-</video>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HdZ_p0IPQkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width=100% height="315" src="https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
