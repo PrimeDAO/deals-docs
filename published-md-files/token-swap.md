@@ -3,6 +3,7 @@
 # Initiate and conduct a Token Swap
 
 ## Prerequisite — Connect with your wallet and start the wizard
+
 <div><video controls width: 100% !important; height: auto !important;><source src="https://ik.imagekit.io/primedao/PrimeDeals/1-connect-to-a-wallet__vbS8qu1O6.mp4" type="video/mp4"></video></div>
 
 1. Visit [https://deals.prime.xyz/initiate](https://deals.prime.xyz/initiate)
