@@ -9,4 +9,4 @@ If all funding from both DAOs have been successfully deposited, both Proposal Le
 
 Remember that in order to finalize the deal the execution needs to happen before the funding period expires.
 
-[https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782773091](https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782773091)
+<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4" type="video/mp4">Your browser does not support the video tag.</video>

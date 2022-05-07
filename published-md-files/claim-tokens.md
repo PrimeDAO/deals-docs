@@ -11,6 +11,6 @@ Follow these simple steps:
 5. Click ‘CLAIM TOKENS’ and confirm the associated transaction that will be prompted in your wallet
 6. Wait for the confirmation of the transaction.
 
-Please see here for a detailed explanation of how vesting and cliff works (TODO Add anchor to FAQ). 
+Please see here for a detailed explanation of how vesting and cliff works (TODO Add anchor to FAQ).
 
-[https://ik.imagekit.io/primedao/PrimeDeals/12-claim__h_EN9zdo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782770763](https://ik.imagekit.io/primedao/PrimeDeals/12-claim__h_EN9zdo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782770763)
+<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/12-claim__h_EN9zdo.mp4" type="video/mp4">Your browser does not support the video tag.</video>

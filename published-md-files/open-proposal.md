@@ -2,7 +2,7 @@
 
 The wizard will guide you through the process of creating an Open Proposal. Please note that you can always come back to edit your input before you click the ’SUBMIT’ ****button on the last step of the wizard.
 
-[https://ik.imagekit.io/primedao/PrimeDeals/2-open-prop_iUsNw-J9R.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782781380](https://ik.imagekit.io/primedao/PrimeDeals/2-open-prop_iUsNw-J9R.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782781380)
+<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/2-open-prop_iUsNw-J9R.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Token Swap Proposal
 

@@ -9,4 +9,4 @@ You can change your vote as many times as you want until the Negotiating phase i
 
 To cast a vote you simply have to click on ‘ACCEPT’ or ‘DECLINE’ in the ‘Vote’ box that you find on the top right of the deal page.
 
-[https://ik.imagekit.io/primedao/PrimeDeals/7-voting_mqVhaWfwU.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782762778](https://ik.imagekit.io/primedao/PrimeDeals/7-voting_mqVhaWfwU.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1651782762778)
+<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/7-voting_mqVhaWfwU.mp4" type="video/mp4">Your browser does not support the video tag.</video>

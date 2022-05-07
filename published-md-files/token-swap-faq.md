@@ -114,10 +114,9 @@ Check the example below to better understand:
 
 - Execution of the deal: Jan 1st
 - Vesting Period: 1 year
+  - Vesting Period is from Jan 1st until Dec 31st
 - Cliff Period: 6 months
-
-- Vesting Period is from Jan 1st until Dec 31st
-- Cliff Period is from Jan 1st til June 30th 
+  - Cliff Period is from Jan 1st til June 30th 
 
 Therefore, DAO Representatives can claim starting on July 1st, after which they can already claim 50% of the vested tokens, since 50% of the time has passed.
 

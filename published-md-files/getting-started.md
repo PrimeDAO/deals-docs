@@ -41,9 +41,7 @@ Here you find a detailed list of features that you can find in Prime Deals modul
 
 - It doesn’t matter if you’re running on [Gnosis Safe](https://gnosis-safe.io/), [Daohaus](https://daohaus.club/), or [DAOstack](https://daostack.io/) *—* any governance framework will work with Prime Deals.
 
-## How is Prime Deals unique?
-
-### Prime Deals Product Vision
+### How is Prime Deals unique?
 
 Negotiations are omnipresent in our human society. In order to reduce coordination & transaction costs, ever more appropriate norms, protocols and channels have emerged throughout our evolution. It is possible to observe the results of this evolution in fields such as international relations, game theory, social choice theory and network theory to name a few. Auctions, voting modules, and curated lists are all games which can be considered as generative negotiation protocols.
 
