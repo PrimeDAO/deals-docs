@@ -1,5 +1,5 @@
 
-# PRPrime Deals Resources DEALS RESOURCES-->
+# Prime Deals Resources DEALS RESOURCES
 
 ## Prime Deals
 
