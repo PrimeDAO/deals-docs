@@ -10,5 +10,5 @@ If all funding from both DAOs have been successfully deposited, both Proposal Le
 Remember that in order to finalize the deal the execution needs to happen before the funding period expires.
 
 <div class="video>
-<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video controls preload="auto"> <source src="https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 </div>
