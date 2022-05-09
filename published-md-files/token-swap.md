@@ -1,4 +1,4 @@
-# Initiate and conduct a Token Swap
+# Initiate a Token Swap
 
 ## Prerequisite — Connect with your wallet and start the wizard
 
