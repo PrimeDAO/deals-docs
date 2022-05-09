@@ -21,12 +21,12 @@ A DAO Treasury Address is the address that **will receive tokens from the other 
 
 ## In short, what is the process of a making a Token Swap happen on Prime Deals?
 
-Here is an high-level summary of the most relevant steps in a Token Swap. For an in-depth walkthrough and for a more clear differentiation between Open Proposals and Partnered Deals, please refer to the relevant step-by-step tutorials. (TODO add link).
+Here is an high-level summary of the most relevant steps in a Token Swap. For an in-depth walkthrough and for a more clear differentiation between Open Proposals and Partnered Deals, please refer to the relevant step-by-step tutorials [here](https://deals.prime.xyz/documentation/InitiateandconductaTokenSwap).
 
 1. Decide if you want to start an Open Proposal or a Partnered Deal.
 2. Provide a brief description of your proposal.
 3. Specify the address of the Proposal Lead and (optionally) contact e-mail. This address will be allowed to edit the deal during the negotiation integrating new points from the conversation.
-4. Decide whether you want to keep private or publicly accessible the details of a deal (please see here for a detail description of how privacy settings work TODO add anchor). In the case of a Partnered Deal, this will make public or private the whole deal. In the case of an Open Proposal, this setting will make public or private only the incoming offers.
+4. Decide whether you want to keep private or publicly accessible the details of a deal (please see [here](#privacy) for a detail description of how privacy settings work). In the case of a Partnered Deal, this will make public or private the whole deal. In the case of an Open Proposal, this setting will make public or private only the incoming offers.
 5. Fill-out the DAO details: the DAO treasury address that will receive the token after the swap, and a list of the address of the DAO representatives who will be able to cast a vote on the deal, either to accept or reject it, fund the deal, as well as claim tokens that will be sent to the treasury address, or withdraw funds they deposited on behalf of their DAO in case the deal is not successful.
    1. In case of a Partnered deal, fill-out the same general details for the other DAO.  If you don’t already have a partner DAO choose to start an Open Proposal in step 1., in this way you will be able to find many potential prospects: they will have to provide their own terms and select their own Deal Representatives.
 6. Setup the details of the token that your DAO wants to swap. First, define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested. Then, configure the vesting schedule specifying over which period they’ll be vested and for how long they won’t be claimable by the other DAO.
@@ -56,7 +56,7 @@ Unless also listed as a Deal Representative, a Proposal Lead cannot cast a vote 
 
 The Proposal Lead can be changed at any time until the deal is approved.
 
-You don't need to be part of DAO to be a Proposal Lead (see DAOplomat TODO add link).
+You don't need to be part of DAO to be a Proposal Lead (see [here](https://deals.prime.xyz/documentation/GeneralFAQ#daoplomat)).
 
 ## What are the pros and cons of keeping the Administrative Rights in an Open Proposal?
 
@@ -137,6 +137,8 @@ The Funding Period is the non-extendable number of days that both parties have t
 ## Where do failed deals get archived?
 
 Failed deals don’t get removed from the Prime Deals interface so that anyone can learn from past failed deals and create better ones.
+
+<a name="privacy"></a> 
 
 ## Can I set a Deal as Private at any stage?
 
