@@ -69,10 +69,10 @@ OR when
 - Deal can be modified by the Proposal Lead
 - Edits to the deal automatically resets all votes that have been already casted. The only edit that won’t reset all votes is the change of a deal from private to public.
 - Voting the deal is possible by the Deal Representatives
-- Voting rules can be found here. (TODO add anchor link)
+- Voting rules can be found [here](https://deals.prime.xyz/documentation/VoteonaDeal).
 - In this phase, voting is in progress (voting rules can be found here). When the majority of the Deal Representatives for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
 
-`**Funding` (in Progress)**
+**`Funding`** (in Progress)
 
 - Can happen only after the majority of the Deal Representatives for each DAO have voted favorably for the deal
 - Can happen only before the end of the specified Funding Period
@@ -82,7 +82,7 @@ OR when
 - The Deal Representatives can deposit from the UI (Note that anyone can technically deposit tokens directly to the contract if they know the address)
 - If the Funding Period is not expired and the all the funds have been successfully collected, the deal become executable by either the Proposal Lead or any of the Deal Representatives in the UI
 
-**(Token Swap) `Failed`**
+(Token Swap) **`Failed`**
 
 - The deal never became executable or executed.
 - Discussions are no longer possible
@@ -100,7 +100,7 @@ OR
 
 - Voting is completed, Proposal Lead initiated Funding phase, Deal Representatives fully funded the deal but the Proposal Lead failed to execute the deal within the given time.
 
-**(Token Swap) `Completed`**
+(Token Swap) **`Completed`**
 
 - The deal has been manually executed
 - Discussions are no longer possible
