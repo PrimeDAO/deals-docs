@@ -16,7 +16,7 @@
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
         },
         {
-            "title": "Initiate and conduct a Token Swap",
+            "title": "Initiate a Token Swap",
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/token-swap.md"
         },
         {
@@ -29,7 +29,7 @@
         },
         {
             "title": "Make an Offer to a DAO",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/submit-a-dao-to-an-open-proposal.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/make-an-offer.md"
         },
         {
             "title": "Edit an Existing Deal",
