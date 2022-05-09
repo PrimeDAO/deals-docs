@@ -1,5 +1,3 @@
-# <!-- TOKEN SWAP TUTORIALS -->
-
 # Initiate and conduct a Token Swap
 
 ## Prerequisite — Connect with your wallet and start the wizard
