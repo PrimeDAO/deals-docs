@@ -1,6 +1,6 @@
 # <!-- TOKEN SWAP TUTORIALS -->
 
-# Initiate and conduct a Token Swap
+# Initiate and conduct a Token Swag
 
 ## Prerequisite — Connect with your wallet and start the wizard
 
