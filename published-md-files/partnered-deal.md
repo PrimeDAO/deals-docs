@@ -6,7 +6,7 @@ Please note that you can always come back to edit your input before you click th
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-You can follow the example of a Partnered Deal linked [here](https://prime-deals-staging.vercel.app/documentation/CreateaPartneredDeal#example-of-a-partnered-deal-input) as a template for your deal. TEST STICKY HEADER SCROLL SETUP
+You can follow the example of a Partnered Deal linked [here](/documentation/CreateaPartneredDeal#example-of-a-partnered-deal-input) as a template for your deal. TEST STICKY HEADER SCROLL SETUP
 
 ## Token Swap Proposal
 
