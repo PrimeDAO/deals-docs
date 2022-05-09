@@ -112,7 +112,7 @@ This is an updated list of error messages that can be printed on screen while tr
 
 ## PrimeDAO General init related
 
-- `001` : `Contract already exists, already initialized`
+- `001` : <samp>Contract already exists, already initialized`</samp>
 
 ## PrimeDAO General input
 
