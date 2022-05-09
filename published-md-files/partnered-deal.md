@@ -4,7 +4,9 @@ The wizard will guide you through the process of creating a Partnered Deal.
 
 Please note that you can always come back to edit your input before you click the ’SUBMIT’ button on the last step of the wizard.
 
-You can follow the example of a Partnered Deal linked here (TODO add anchor) as a template for your deal.
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+You can follow the example of a Partnered Deal linked [here](https://deals.prime.xyz/documentation/CreateaPartneredDeal#example-of-a-partnered-deal-input) as a template for your deal.
 
 ## Token Swap Proposal
 
