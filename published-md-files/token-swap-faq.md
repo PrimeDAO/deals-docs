@@ -38,6 +38,8 @@ Here is an high-level summary of the most relevant steps in a Token Swap. For an
 
 ![https://ik.imagekit.io/primedao/PrimeDeals/UML-DEALS-TS_k_Xho8YRS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651689966436](https://ik.imagekit.io/primedao/PrimeDeals/UML-DEALS-TS_k_Xho8YRS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651689966436)
 
+<a name="proposal-lead"></a>
+
 ## What a Proposal Lead can and cannot do?
 
 A **Proposal Lead** is exclusively responsible for kickstarting:
@@ -56,6 +58,8 @@ The Proposal Lead can be changed at any time until the deal is approved.
 
 You don't need to be part of DAO to be a Proposal Lead (see [here](https://deals.prime.xyz/documentation/GeneralFAQ#daoplomat)).
 
+<a name="keeping-admin-rights"></a>
+
 ## What are the pros and cons of keeping the Administrative Rights in an Open Proposal?
 
 When you setup an Open Proposal the Proposal Lead has the chance to decide whether or not you want to keep the Administrative Rights in an Open Proposal.
@@ -71,6 +75,8 @@ Among others, the three most significant rights you are letting go are:
 - the ability to toggle the deal private/public
 
 It’s also worth remembering that in the near future Prime Deals will feature a commission fee as incentive for DAOplomats that are successfully proposing and facilitating deals and so in that case, if you don’t keep Administrative Rights you will also lose that earning opportunity.
+
+<a name="representatives"></a>
 
 ## What Deal Representatives can and cannot do?
 

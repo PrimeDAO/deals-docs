@@ -1,6 +1,6 @@
 # Create an Open Proposal
 
-The wizard will guide you through the process of creating an Open Proposal. Please note that you can always come back to edit your input before you click the <**’SUBMIT’** button on the last step of the wizard.
+The wizard will guide you through the process of creating an Open Proposal. Please note that you can always come back to edit your input before you click the <kbd>SUBMIT</kbd> button on the last step of the wizard.
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/2-open-prop_iUsNw-J9R.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
@@ -13,9 +13,9 @@ The wizard will guide you through the process of creating an Open Proposal. Plea
 ### Lead Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click ‘MAKE ME THE PROPOSAL LEAD’. 
-    - To learn more about the role and rights of a Proposal Lead please see here. (TODO ADDL INK FAQ)
+    - To learn more about the role and rights of a Proposal Lead please see [here](/documentation/TokenSwapFAQ#proposal-lead).
 2. Provide the **Contact E-mail (optional)**
-3. Select if you want to ****Keep Administrative Rights with all incoming offers.**** It’s highly recommended that you transfer your administrative rights only if you anticipate many incoming offers for this proposal and won't have time to manage them. ****For a list of pros and cons please see here**** (TODO add link to the faq).
+3. Select if you want to **Keep Administrative Rights with all incoming offers.** It’s highly recommended that you transfer your administrative rights only if you anticipate many incoming offers for this proposal and won't have time to manage them. **For a list of pros and cons please see [here](/documentation/TokenSwapFAQ#keeping-admin-rights)**.
     - Toggle this option on if you would like to retain the Proposal Lead role to yourself. This will allow you to continue manage all the offers incoming to your Open Proposal.
     - If instead you toggle this option off, you will transfer your administrative rights to the prospect Partner DAO. In this case the Partner DAO will have to register a new Proposal Lead address to which the administrative rights will be transferred to.
 4. Decide whether you wanna keep all incoming offers to your proposal private, or if you rather keep these publicly accessible.
@@ -30,7 +30,7 @@ Fill in the details of the Primary DAO. This is the DAO for which the original p
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the Primary DAO Avatar: a public URL to a small **JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.**
-4. Provide the addresses of the Primary DAO Representatives.  To learn more on the role of the DAO Representatives please see here (TODO ADDL INK FAQ).
+4. Provide the addresses of the Primary DAO Representatives.  To learn more on the role of the DAO Representatives please see here[here](/documentation/TokenSwapFAQ#representatives).
 
 ### Token details
 
@@ -52,13 +52,13 @@ For each type of token that the DAO is open to swap you’d need to provide thes
 
 In this section you have to provide all the important clauses of your proposal (max. 10). Please be specific and clear so that everyone can understand the terms of the agreement between the parties involved. This document can serve as a single source of truth for future reference.
 
-1. Click the button ‘ADD CLAUSE +’
+1. Click the button <kbd>ADD CLAUSE +</kbd>
 2. Write the text of your clause (max 500 ch.)
 3. Click ‘SAVE’ to save this clause and move to the next.
-4. You can edit a clause with the ‘EDIT’ button.
+4. You can edit a clause with the <kbd>EDIT</kbd> button.
 5. Make sure have written and saved all clauses
 
-Click ‘PROCEED’ at the bottom of the page to move onto the next section
+Click <kbd>PROCEED</kbd> at the bottom of the page to move onto the next section
 
 ### Submit
 
