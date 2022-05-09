@@ -1,7 +1,5 @@
 # Introduction
 
-##### ON THIS PAGE (TEST)
-
 ## What is Prime Deals?
 
 Prime Deals is a platform to host and facilitate various types of DAO to DAO (D2D) negotiations. With our platform any DAO can easily propose, discuss and ratify agreements, and execute the deal on-chain.
