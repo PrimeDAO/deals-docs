@@ -1,5 +1,4 @@
-
-## Start Funding
+# Start Funding
 
 As a Proposal Lead you can start the Funding phase when at least 50% of the Deal Representatives per each DAO have casted an affirmative vote. To do so, simply follow these steps:
 
@@ -8,4 +7,4 @@ As a Proposal Lead you can start the Funding phase when at least 50% of the Deal
 3. If you decide to go on with starting the funding, you will be prompted by your wallet to confirm an on-chain transaction. Confirm and wait for the transaction confirmation. If you still see the button ‘START FUNDING’ after you have completed this step, simply refresh the page once the transaction has been confirmed. 
 4. You should then see a ‘GO TO FUNDING’ button instead of the ‘START FUNDING’. You can monitor the progress of each DAO funding from this page.
 
-<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/8-start-funding_AP5JEEKx0.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/8-start-funding_AP5JEEKx0.mp4" type="video/mp4">Your browser does not support the video tag.</video>

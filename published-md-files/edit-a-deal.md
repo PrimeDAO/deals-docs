@@ -1,6 +1,6 @@
-## Edit an Existing Deal
+# Edit an Existing Deal
 
-<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/5-edit-a-deal-deals_z6Iat0f1B.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/5-edit-a-deal-deals_z6Iat0f1B.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 As a Proposal Lead you can edit an existing deal by simply hitting the ‘EDIT’ button on the deal page. 
 

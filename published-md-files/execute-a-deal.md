@@ -1,4 +1,4 @@
-## Execute a Deal
+# Execute a Deal
 
 If all funding from both DAOs have been successfully deposited, both Proposal Lead as well as any Deal Representative can execute a deal by following these simple steps:
 
@@ -10,4 +10,4 @@ If all funding from both DAOs have been successfully deposited, both Proposal Le
 Remember that in order to finalize the deal the execution needs to happen before the funding period expires.
 
 
-<video controls preload="auto" style="max-width: 100%; height: auto;"> <source src="https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4" type="video/mp4">Your browser does not support the video tag.</video>

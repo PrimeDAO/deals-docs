@@ -1,5 +1,4 @@
-
-## Fund a Deal
+# Fund a Deal
 
 When voting is completed and the Proposal Lead started the funding phase the Deal Representatives can transfer the deposit on behalf of their DAO. If the Representatives fail to fully fund the deal in the Funding Period specified by the deal
 

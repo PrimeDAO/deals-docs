@@ -1,5 +1,4 @@
-
-## Vote on a Deal
+# Vote on a Deal
 
 As a Deal Representative you have the exclusive right to cast a vote on the deal, either to accept or reject the deal.  
 
@@ -9,4 +8,4 @@ You can change your vote as many times as you want until the Negotiating phase i
 
 To cast a vote you simply have to click on ‘ACCEPT’ or ‘DECLINE’ in the ‘Vote’ box that you find on the top right of the deal page.
 
-<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/7-voting_mqVhaWfwU.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/7-voting_mqVhaWfwU.mp4" type="video/mp4">Your browser does not support the video tag.</video>

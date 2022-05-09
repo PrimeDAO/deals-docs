@@ -1,6 +1,6 @@
-## Discuss the clauses of a Deal
+# Discuss the clauses of a Deal
 
-<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/6-commenting_7TX5DwmXu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/6-commenting_7TX5DwmXu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 In an Open Proposal, anyone with a connected wallet can discuss the clauses, in fact Open Proposals cannot be private. On a Partnered Deal only the Deal Representatives and the Proposal Lead can discuss, irrespective of whether the deal is public or private.
 

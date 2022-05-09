@@ -1,8 +1,8 @@
-## Create an Open Proposal
+# Create an Open Proposal
 
 The wizard will guide you through the process of creating an Open Proposal. Please note that you can always come back to edit your input before you click the ’SUBMIT’ ****button on the last step of the wizard.
 
-<video controls preload="auto" width: 100% !important; height: auto !important;> <source src="https://ik.imagekit.io/primedao/PrimeDeals/2-open-prop_iUsNw-J9R.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/2-open-prop_iUsNw-J9R.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Token Swap Proposal
 
