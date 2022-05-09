@@ -17,7 +17,7 @@ A Partner DAO is the DAO that is brought by a Primary DAO in a Partnered Deal, o
 
 ## What is a DAO Treasury Address in a Token Swap?
 
-A DAO Treasury Address is the address that **will receive tokens from the other DAO during the token swap.** Whenever a vested amount is claimed (by anyone) these tokens are also being sent to the treasury address.
+A DAO Treasury Address is the address that will receive tokens from the other DAO during the token swap. Whenever a vested amount is claimed (by anyone) these tokens are also being sent to the treasury address.
 
 ## In short, what is the process of a making a Token Swap happen on Prime Deals?
 
@@ -26,11 +26,13 @@ Here is an high-level summary of the most relevant steps in a Token Swap. For an
 1. Decide if you want to start an Open Proposal or a Partnered Deal.
 2. Provide a brief description of your proposal.
 3. Specify the address of the Proposal Lead and (optionally) contact e-mail. This address will be allowed to edit the deal during the negotiation integrating new points from the conversation.
-4. Decide whether you want to keep private or publicly accessible the details of a deal, please see [here](https://prime-deals-dev.vercel.app/documentation/TokenSwapFAQ#privacy) for a detailed description of how privacy settings work. In the case of a Partnered Deal, this will make public or private the whole deal. In the case of an Open Proposal, this setting will make public or private only the incoming offers.
+4. Decide whether you want to keep private or publicly accessible the details of a deal, please see [here](https://deals.prime.xyz/documentation/TokenSwapFAQ#privacy) for a detailed description of how privacy settings work. In the case of a Partnered Deal, this will make public or private the whole deal. In the case of an Open Proposal, this setting will make public or private only the incoming offers.
 5. Fill-out the DAO details: the DAO treasury address that will receive the token after the swap, and a list of the address of the DAO representatives who will be able to cast a vote on the deal, either to accept or reject it, fund the deal, as well as claim tokens that will be sent to the treasury address, or withdraw funds they deposited on behalf of their DAO in case the deal is not successful.
+   <br>
    <br>
 In case of a Partnered deal, fill-out the same general details for the other DAO.  If you don’t already have a partner DAO choose to start an Open Proposal in step 1., in this way you will be able to find many potential prospects: they will have to provide their own terms and select their own Deal Representatives.
 6. Setup the details of the token that your DAO wants to swap. First, define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested. Then, configure the vesting schedule specifying over which period they’ll be vested and for how long they won’t be claimable by the other DAO.
+   <br>
    <br>
 In case of a Partnered Deal define the same details and vesting schedule for the token they want to swap.
 7. Define the Funding Period, the period of time after the Proposal Lead has declared voting complete, in which the Deal Representative must fully fund, and the Proposal Lead must execute the swap.
@@ -92,7 +94,7 @@ A Deal Representative can change their vote from accept to reject and vice versa
 
 In an Open Proposal, anyone with a connected wallet can discuss the clauses (Open Proposals cannot be private). On a Partnered Deal only Deal Representatives and Proposal Lead can discuss irrespective of whether the deal is public or private.
 
-## What is the Total Amount of Tokens to Swap** in a Token Swap?
+## What is the Total Amount of Tokens to Swap in a Token Swap?
 
 For each token type that is offered as part of a Token Swap deal, the Proposal Lead can define the total amount that will be transferred to the other DAO treasury address during the swap. This amount can only be adjusted before the deal move into the Funding phase. In fact, once the Funding phase has been initiated, the deal and all its parameter are on-chain and the (non-extendable) funding period has started.
 
