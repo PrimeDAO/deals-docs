@@ -69,8 +69,7 @@ OR when
 - Deal can be modified by the Proposal Lead
 - Edits to the deal automatically resets all votes that have been already casted. The only edit that won’t reset all votes is the change of a deal from private to public.
 - Voting the deal is possible by the Deal Representatives
-- Voting rules can be found [here](https://deals.prime.xyz/documentation/VoteonaDeal).
-- In this phase, voting is in progress (voting rules can be found here). When the majority of the Deal Representatives for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
+- In this phase, voting is in progress (voting rules can be found [here](https://deals.prime.xyz/documentation/VoteonaDeal). When the majority of the Deal Representatives for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
 
 **`Funding`** (in Progress)
 
