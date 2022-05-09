@@ -1,14 +1,16 @@
 # Introduction
 
+##### ON THIS PAGE (TEST)
+
 ## What is Prime Deals?
 
 Prime Deals is a platform to host and facilitate various types of DAO to DAO (D2D) negotiations. With our platform any DAO can easily propose, discuss and ratify agreements, and execute the deal on-chain.
 
-At first, Prime Deals will feature the **Token Swap**, a module that allows DAOs to execute trustless token swaps among them with customized vesting options. Prime Deals will progressively release further modules to facilitate additional types of contract-based interactions such as **Joint Venture** in the near future ****and **Co-liquidity Pool** later on**.**
+At first, Prime Deals will feature the **Token Swap**, a module that allows DAOs to execute trustless token swaps among them with customized vesting options. Prime Deals will progressively release further modules to facilitate additional types of contract-based interactions such as **Joint Venture** in the near future and **Co-liquidity Pool** later on.
 
 ## Why should I use Prime Deals?
 
-Prime Deals have numerous advantages as compared to negotiating deals with cumbersome coordination processes and bespoke contract interactions. If you want to learn more about Prime Deals smart contract architecture, please see here (TODO add anchor to FAQ). 
+Prime Deals have numerous advantages as compared to negotiating deals with cumbersome coordination processes and bespoke contract interactions. If you want to learn more about Prime Deals smart contract architecture, please see [here](https://deals.prime.xyz/documentation/SmartContractArchitecture). 
 
 Here you find a detailed list of features that you can find in Prime Deals modules. 
 
