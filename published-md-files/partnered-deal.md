@@ -78,25 +78,27 @@ When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might requir
 
 ## Proposal Title
 
-Ex.
+Example
 
- <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;">Partnership Agreement ADAO <> BDAO</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Agreement ADAO <> BDAO</div>
 
- <div style="white-space: pre-wrap;">Token Swap Agreement ADAO <> BDAO</div>
+Example
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap Agreement ADAO <> BDAO</div>
 
 ## Proposal Summary
 
 State the general reasons for what this token swap aims to achieve. Is it to align interests, to collaborate on a strategy, to build together, to participate in a program?
     
-Ex.
+Example
     
-<div style="white-space: pre-wrap;">The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</div>
 
 State the value and amount of the tokens to be swapped by each party.
     
-Ex.
+Example
     
-DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO. 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO.</div>
 
 ## Proposal Description
 
