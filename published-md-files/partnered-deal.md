@@ -177,14 +177,18 @@ What are the technical aspects of this collaboration? Is there a specific develo
 How are the token swap amounts calculated? Provide the dollar value of the tokens to be swapped from each side, and how it is calculated. If it is Moving Average based on a time period, provide the time period for calculating the MA, and from what date it will be calculated.
     
 **Example**
-    
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">**Token Swap:** $50.000 worth of $DAO2 tokens will be swapped for $50,000 of $DAO1 tokens taken the 30-day average at the end of the vote on both sides.</div>
 
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">**Mutual Grant:** Grant DAO2 $250K USD worth of DAO1’s $DAO1 governance token, and grant DAO1 $250,000 USD worth of $DAO2 governance tokens, calculated through the 30-day average at the end of the vote on both side.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap: $50.000 worth of $DAO2 tokens will be swapped for $50,000 of $DAO1 tokens taken the 30-day average at the end of the vote on both sides.</div>
 
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">**Token Swap where a DAO’s token value is calculated differently for the deal than the market price:** Conduct a token swap of $250k in $DAO2 tokens from a 30 day TWAP from the date of execution of this proposal - in return for 500k $DAO1 tokens being 0.5% supply at a $50 million fully diluted valuation of DAO1.</div>
+**Example**
 
-### Usage of the Swapped Tokens**
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Mutual Grant: Grant DAO2 $250K USD worth of DAO1’s $DAO1 governance token, and grant DAO1 $250,000 USD worth of $DAO2 governance tokens, calculated through the 30-day average at the end of the vote on both side.</div>
+
+**Example**
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap where a DAO’s token value is calculated differently for the deal than the market price: Conduct a token swap of $250k in $DAO2 tokens from a 30 day TWAP from the date of execution of this proposal - in return for 500k $DAO1 tokens being 0.5% supply at a $50 million fully diluted valuation of DAO1.</div>
+
+### Usage of the Swapped Tokens
 
 Is there an agreement for how to utilize the swapped tokens?
     
@@ -194,7 +198,7 @@ Is there an agreement for how to utilize the swapped tokens?
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Staking: Each protocol may stake the swapped tokens in order to participate in the other's governance.</div>
 
-### Co-liquidity provision**
+### Co-liquidity provision
 
 **Example**
     
