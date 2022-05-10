@@ -78,11 +78,11 @@ When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might requir
 
 ## Proposal Title
 
-Example
+**Example**
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Agreement ADAO <> BDAO</div>
 
-Example
+**Example**
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap Agreement ADAO <> BDAO</div>
 
@@ -90,13 +90,13 @@ Example
 
 State the general reasons for what this token swap aims to achieve. Is it to align interests, to collaborate on a strategy, to build together, to participate in a program?
     
-Example
+**Example**
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</div>
 
 State the value and amount of the tokens to be swapped by each party.
     
-Example
+**Example**
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO.</div>
 
@@ -116,159 +116,131 @@ Give an overview of the partnership and scope of collaboration.
 - Provide external link if there is a doc version of this proposal.
 - Provide external links if there are forum posts related to this proposal.
     
-    Example:
+**Example**
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Background on the Partnership: The relationship between DAO1 and DAO2 goes back to <Date>. Since the launch of DAO1 in <Date>, the DAO2 has played a crucial role in the DAO1 ecosystem.</div>
     
-    > Background on the Partnership: The relationship between DAO1 and DAO2 goes back to <Date>. Since the launch of DAO1 in <Date>, the DAO2 has played a crucial role in the DAO1 ecosystem.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">In <Date>, DAO1 set out to revamp its ProductOP experience for users and project teams. Through a grant from DAO2 (link to the grant post), the development of what is known as ProductOP started. ProductOP allows anyone to do this and that. The product provides these advantages to the users, these advantages to the ecosystem, and theese benefits to DAO2.</div>
+ 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">With the development of ProductOP, DAO1 became DAO2’s partner, and the collaboration extended to active technical and organizational development. In <Date>, DAO2 and DAO1 made headlines by doing this (add link for reference), which was important for reasons x,y, and z.</div> 
     
-    > In <Date>, DAO1 set out to revamp its ProductOP experience for users and project teams. Through a grant from DAO2 (link to the grant post), the development of what is known as ProductOP started. ProductOP allows anyone to do this and that. The product provides these advantages to the users, these advantages to the ecosystem, and theese benefits to DAO2.
-    > 
-    
-    > With the development of ProductOP, DAO1 became DAO2’s partner, and the collaboration extended to active technical and organizational development. In <Date>, DAO2 and DAO1 made headlines by doing this (add link for reference), which was important for reasons x,y, and z.
-    > 
-    
-    > Since then, the teams have continued to work together, and various DAO1 contributors have supported the development of DAO2 and the DAO2 Protocol.
-    > 
-    
-    > After successfully going through the maturity stages of re-branding and raising seed funds, DAO1 has grown to over 30 full-time contributors and is ready to launch its product suite and solidify relationships with DAO2 with a token swap.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Since then, the teams have continued to work together, and various DAO1 contributors have supported the development of DAO2 and the DAO2 Protocol.</div> 
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">After successfully going through the maturity stages of re-branding and raising seed funds, DAO1 has grown to over 30 full-time contributors and is ready to launch its product suite and solidify relationships with DAO2 with a token swap.</div>
 
 ## Clauses
 
 Start the clause with a title, and then expand on it. This is a set of suggested dimensions to think about.
 
-**D2D Collaboration**
+### D2D Collaboration
 
 - What are the exact collaboration areas and commitments from each DAO?
     
-    Example:
+**Example**
     
-    > DAO1 will support the development of the DAO2 and, where possible, share learnings and resources with DAO2.
-    > 
-    
-    > DAO2 will get early access to [](https://www.prime.xyz/deals)DAO1’s upcoming ProductOP, which is described in this definition and has these benefits, to give input, to ensure the product serves the needs of DAO2.
-    > 
-    
-    > Liquidity Pool Creation: DAO1 aims to create deep liquidity between DAO1 tokens <> DAO2 tokens for these reasons. Here is the grander strategy for this action.
-    > 
-    
-    > Market buy: DAO1 will commit to market-buying at least 1000 DAO2 tokens within 60 days after the passing of the proposal. DAO1 is allowed to access DAO2 token liquidity on any of the available chains, namely: Ethereum Mainnet, Gnosis Chain, and Celo to acquire the DAO2 tokens.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 will support the development of the DAO2 and, where possible, share learnings and resources with DAO2.</div>
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO2 will get early access to [](https://www.prime.xyz/deals)DAO1’s upcoming ProductOP, which is described in this definition and has these benefits, to give input, to ensure the product serves the needs of DAO2.</div>
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Liquidity Pool Creation: DAO1 aims to create deep liquidity between DAO1 tokens <> DAO2 tokens for these reasons. Here is the grander strategy for this action.</div>
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Market buy: DAO1 will commit to market-buying at least 1000 DAO2 tokens within 60 days after the passing of the proposal. DAO1 is allowed to access DAO2 token liquidity on any of the available chains, namely: Ethereum Mainnet, Gnosis Chain, and Celo to acquire the DAO2 tokens.</div>
+
 - Does the partnership have an end date?
     
-    Example:
+**Example**
     
-    > Partnership Term: ****The Partnership is open-ended and does not have an expiry date.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Term: ****The Partnership is open-ended and does not have an expiry date.</div>
+
 - What are the rules for terminating this partnership? Is there an exit clause?
     
-    Example:
+**Example**
     
-    > Exit Clause: ****Both organizations can at any moment terminate the agreement through their respective governance systems.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Exit Clause: ****Both organizations can at any moment terminate the agreement through their respective governance systems.</div> 
 
-**Technical**
+### Technical
 
 - What are the technical aspects of this collaboration? Is there a specific development or implementation planned? Is there a product integration?
     
-    Example:
+**Example**
     
-    > DAO1 will continue to host this protocol and support the development of it on DAO2’s protocol.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 will continue to host this protocol and support the development of it on DAO2’s protocol.</div> 
     
-    > Friendly fork relation: DAO1 will support the development of the DAO2 on alternative blockchains, currently evaluating these strategies with these potential partners, with the potential for it to develop into a Balancer Friendly Fork.
-    > 
-    
-    > DAO1’s protocol will support DAO2 with these implementations.
-    > 
-    
-    > BD Synchronization: Here is how both DAOs will partner to increase these metrics for each other’s protocols.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Friendly fork relation: DAO1 will support the development of the DAO2 on alternative blockchains, currently evaluating these strategies with these potential partners, with the potential for it to develop into a Balancer Friendly Fork.</div>
 
-**Terms of the Token Swap**
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1’s protocol will support DAO2 with these implementations.</div>
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">BD Synchronization: Here is how both DAOs will partner to increase these metrics for each other’s protocols.</div>
+
+### Terms of the Token Swap
 
 - How are the token swap amounts calculated? Provide the dollar value of the tokens to be swapped from each side, and how it is calculated. If it is Moving Average based on a time period, provide the time period for calculating the MA, and from what date it will be calculated.
     
-    Example:
+**Example**
     
-    > **Token Swap:** $50.000 worth of $DAO2 tokens will be swapped for $50,000 of $DAO1 tokens taken the 30-day average at the end of the vote on both sides.
-    > 
-    
-    > **Mutual Grant:** Grant DAO2 $250K USD worth of DAO1’s $DAO1 governance token, and grant DAO1 $250,000 USD worth of $DAO2 governance tokens, calculated through the 30-day average at the end of the vote on both side.
-    > 
-    
-    > **Token Swap where a DAO’s token value is calculated differently for the deal than the market price:** Conduct a token swap of $250k in $DAO2 tokens from a 30 day TWAP from the date of execution of this proposal - in return for 500k $DAO1 tokens being 0.5% supply at a $50 million fully diluted valuation of DAO1.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">**Token Swap:** $50.000 worth of $DAO2 tokens will be swapped for $50,000 of $DAO1 tokens taken the 30-day average at the end of the vote on both sides.</div>
 
-**Usage of the Swapped Tokens**
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">**Mutual Grant:** Grant DAO2 $250K USD worth of DAO1’s $DAO1 governance token, and grant DAO1 $250,000 USD worth of $DAO2 governance tokens, calculated through the 30-day average at the end of the vote on both side.</div>
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">**Token Swap where a DAO’s token value is calculated differently for the deal than the market price:** Conduct a token swap of $250k in $DAO2 tokens from a 30 day TWAP from the date of execution of this proposal - in return for 500k $DAO1 tokens being 0.5% supply at a $50 million fully diluted valuation of DAO1.</div>
+
+### Usage of the Swapped Tokens**
 
 - Is there an agreement for how to utilize the swapped tokens?
     
-    Example:
+**Example**
     
-    > There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.</div>
     
-    > Staking: Each protocol may stake the swapped tokens in order to participate in the other's governance.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Staking: Each protocol may stake the swapped tokens in order to participate in the other's governance.</div>
 
-**Co-liquidity provision**
+### Co-liquidity provision**
 
-Example:
+**Example**
     
-> To align governance interests, between the two organizations, the creation of a co-liquidity pool is proposed with the following details; 25,000 $DAO2 tokens would be transferred to DAO1 at the end of this date or deliverable  to bootstrap a DAO1 / DAO2 pool with 50/50 weights and 2,5% trading fees.
-> 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To align governance interests, between the two organizations, the creation of a co-liquidity pool is proposed with the following details; 25,000 $DAO2 tokens would be transferred to DAO1 at the end of this date or deliverable  to bootstrap a DAO1 / DAO2 pool with 50/50 weights and 2,5% trading fees.</div>
 
-> Right after the conclusion of the DAO1 LBP, DAO1 will seed a pool with the 25,000 $DAO2 tokens and match it with the same $ value in $DAO1 tokens. Once the pool is initiated, DAO1 will transfer 50% of the Liquidity Pool Tokens to DAO2 to complete the transaction.
-> 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Right after the conclusion of the DAO1 LBP, DAO1 will seed a pool with the 25,000 $DAO2 tokens and match it with the same $ value in $DAO1 tokens. Once the pool is initiated, DAO1 will transfer 50% of the Liquidity Pool Tokens to DAO2 to complete the transaction.</div>
 
-> The pool will again be called the DAO2 <> DAO1 pool and function as a liquidity bridge between the two DAOs. The DAO2xDAO1 pool will be one of the two main liquidity pools for DAO1.
-> 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The pool will again be called the DAO2 <> DAO1 pool and function as a liquidity bridge between the two DAOs. The DAO2xDAO1 pool will be one of the two main liquidity pools for DAO1.</div>
 
-> Co-liquidity Provision: ****To enhance alignment, DAO2 will match the received $DAO1 tokens with an equal value in (x) tokens from its treasury and add it to the %50 DAO1/ %50 DAO2 tokens in Balancer. DAO1 will match the received $DAO2 with an amount of (y) - equal to 25% of the amount received - and add it to the %80 DAO2/ %20 (y) pool in Balancer.
->
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Co-liquidity Provision: ****To enhance alignment, DAO2 will match the received $DAO1 tokens with an equal value in (x) tokens from its treasury and add it to the %50 DAO1/ %50 DAO2 tokens in Balancer. DAO1 will match the received $DAO2 with an amount of (y) - equal to 25% of the amount received - and add it to the %80 DAO2/ %20 (y) pool in Balancer.</div>
 
 - Is there any rules for selling other DAO’s swapped tokens?
     
-Example:
-> To ensure long-term alignment, DAO1 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO2 ecosystem. And DAO2 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO1 ecosystem.
->  
+**Example**
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To ensure long-term alignment, DAO1 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO2 ecosystem. And DAO2 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO1 ecosystem.</div> 
 
-> Each protocol undertakes to not reduce its holding or exposure to the swapped tokens for at least a period until 1 January 2023.
-> 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Each protocol undertakes to not reduce its holding or exposure to the swapped tokens for at least a period until 1 January 2023.</div>
 
-**Operational**
+### Operational
 
 - How will the partnership move forward and kept track of?
     
-    Example:
+**Example**
     
-    > Both DAOs will actively share DAO operational learnings and workflows, starting with a bi-monthly knowledge-sharing session covering three topics relevant to both DAOs. The first session will be organized in mid-January.
-    > 
-    
-    > To ensure operational effectiveness, a monthly call will be set up by at least one Deal Representative of each organization.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Both DAOs will actively share DAO operational learnings and workflows, starting with a bi-monthly knowledge-sharing session covering three topics relevant to both DAOs. The first session will be organized in mid-January.</div>
+  
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To ensure operational effectiveness, a monthly call will be set up by at least one Deal Representative of each organization.</div>
 
-**Governance**
+### Governance
 
 - Does this partnership create a customized governance access to the other DAO? If so, how will this be done?
     
-    Example:
+**Example**
     
-    > The DAO1xDAO2 liquidity pool token will be added to the Snapshot strategies of both DAOs to allow DAO1xDAO2 token holders to participate in the Governance of both protocols.
-    > 
-    
-    > A new snapshot will be set-up with the DAO1xDAO2 as the governing token. This snapshot will be used to govern issues related to this DAO agreement.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The DAO1xDAO2 liquidity pool token will be added to the Snapshot strategies of both DAOs to allow DAO1xDAO2 token holders to participate in the Governance of both protocols.</div>
+
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">A new snapshot will be set-up with the DAO1xDAO2 as the governing token. This snapshot will be used to govern issues related to this DAO agreement.</div>
+
 - How will this partnership be overseen? Who are the individuals responsible for running this partnership?
     
-    Example:
+**Example**
     
-    > Partnership Governance: The partnership is managed by Deal Representatives of the organizations. The respective governance processes of both DAOs can overwrite any decision by Deal Representatives. In the case of this partnership, there are 2 representatives for each organization.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Governance: The partnership is managed by Deal Representatives of the organizations. The respective governance processes of both DAOs can overwrite any decision by Deal Representatives. In the case of this partnership, there are 2 representatives for each organization.</div>
+
 - What happens when DAOs want to rule over a clause agreed upon on the deal, or use the tokens in a different way than what is specified in the deal?
     
-    Example:
+**Example**
     
-    > There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.
-    > 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.</div> 
