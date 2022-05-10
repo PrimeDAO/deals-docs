@@ -134,7 +134,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 ### D2D Collaboration
 
-- What are the exact collaboration areas and commitments from each DAO?
+What are the exact collaboration areas and commitments from each DAO?
     
 **Example**
     
@@ -146,13 +146,13 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Market buy: DAO1 will commit to market-buying at least 1000 DAO2 tokens within 60 days after the passing of the proposal. DAO1 is allowed to access DAO2 token liquidity on any of the available chains, namely: Ethereum Mainnet, Gnosis Chain, and Celo to acquire the DAO2 tokens.</div>
 
-- Does the partnership have an end date?
+Does the partnership have an end date?
     
 **Example**
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Term: ****The Partnership is open-ended and does not have an expiry date.</div>
 
-- What are the rules for terminating this partnership? Is there an exit clause?
+What are the rules for terminating this partnership? Is there an exit clause?
     
 **Example**
     
@@ -160,7 +160,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 ### Technical
 
-- What are the technical aspects of this collaboration? Is there a specific development or implementation planned? Is there a product integration?
+What are the technical aspects of this collaboration? Is there a specific development or implementation planned? Is there a product integration?
     
 **Example**
     
@@ -174,7 +174,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 ### Terms of the Token Swap
 
-- How are the token swap amounts calculated? Provide the dollar value of the tokens to be swapped from each side, and how it is calculated. If it is Moving Average based on a time period, provide the time period for calculating the MA, and from what date it will be calculated.
+How are the token swap amounts calculated? Provide the dollar value of the tokens to be swapped from each side, and how it is calculated. If it is Moving Average based on a time period, provide the time period for calculating the MA, and from what date it will be calculated.
     
 **Example**
     
@@ -186,7 +186,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 ### Usage of the Swapped Tokens**
 
-- Is there an agreement for how to utilize the swapped tokens?
+Is there an agreement for how to utilize the swapped tokens?
     
 **Example**
     
@@ -206,7 +206,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Co-liquidity Provision: ****To enhance alignment, DAO2 will match the received $DAO1 tokens with an equal value in (x) tokens from its treasury and add it to the %50 DAO1/ %50 DAO2 tokens in Balancer. DAO1 will match the received $DAO2 with an amount of (y) - equal to 25% of the amount received - and add it to the %80 DAO2/ %20 (y) pool in Balancer.</div>
 
-- Is there any rules for selling other DAO’s swapped tokens?
+Is there any rules for selling other DAO’s swapped tokens?
     
 **Example**
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To ensure long-term alignment, DAO1 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO2 ecosystem. And DAO2 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO1 ecosystem.</div> 
@@ -215,7 +215,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 ### Operational
 
-- How will the partnership move forward and kept track of?
+How will the partnership move forward and kept track of?
     
 **Example**
     
@@ -225,7 +225,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 ### Governance
 
-- Does this partnership create a customized governance access to the other DAO? If so, how will this be done?
+Does this partnership create a customized governance access to the other DAO? If so, how will this be done?
     
 **Example**
     
@@ -233,13 +233,13 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">A new snapshot will be set-up with the DAO1xDAO2 as the governing token. This snapshot will be used to govern issues related to this DAO agreement.</div>
 
-- How will this partnership be overseen? Who are the individuals responsible for running this partnership?
+How will this partnership be overseen? Who are the individuals responsible for running this partnership?
     
 **Example**
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Governance: The partnership is managed by Deal Representatives of the organizations. The respective governance processes of both DAOs can overwrite any decision by Deal Representatives. In the case of this partnership, there are 2 representatives for each organization.</div>
 
-- What happens when DAOs want to rule over a clause agreed upon on the deal, or use the tokens in a different way than what is specified in the deal?
+What happens when DAOs want to rule over a clause agreed upon on the deal, or use the tokens in a different way than what is specified in the deal?
     
 **Example**
     
