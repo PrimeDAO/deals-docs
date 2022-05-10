@@ -80,9 +80,9 @@ When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might requir
 
 Ex.
 
-<pre>Partnership Agreement ADAO <> BDAO</pre>
+ <div style="white-space: pre-wrap;">Partnership Agreement ADAO <> BDAO</div>
 
-<code>Token Swap Agreement ADAO <> BDAO</code>
+ <div style="white-space: pre-wrap;">Token Swap Agreement ADAO <> BDAO</div>
 
 ## Proposal Summary
 
@@ -90,7 +90,7 @@ State the general reasons for what this token swap aims to achieve. Is it to ali
     
 Ex.
     
-<pre>The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</pre>
+<div style="white-space: pre-wrap;">The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</div>
 
 State the value and amount of the tokens to be swapped by each party.
     
