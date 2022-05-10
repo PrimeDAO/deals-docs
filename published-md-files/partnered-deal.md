@@ -2,22 +2,23 @@
 
 The wizard will guide you through the process of creating a Partnered Deal. 
 
-Please note that you can always come back to edit your input before you click the <kbd>’SUBMIT’</kbd> button on the last step of the wizard.
+Please note that you can always come back to edit your input before you click the <kbd>SUBMIT</kbd> button on the last step of the wizard.
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-You can follow the example of a Partnered Deal linked [here](/documentation/CreateaPartneredDeal#example-of-a-partnered-deal-input) as a template for your deal. TEST STICKY HEADER SCROLL SETUP
-
+~~TEST STICKY HEADER SCROLL SETUP~~
+You can follow the example of a Partnered Deal linked [here](https://prime-deals-staging.vercel.app/documentation/CreateaPartneredDeal#example-of-a-partnered-deal-input) as a template for your deal. 
+~~TEST STICKY HEADER SCROLL SETUP~~
 ## Token Swap Proposal
 
-1. Provide a clear **Proposal Title** that capture the essence of the deal you want to offer (max 60 ch.)
-2. Provide a brief outline of the Token Swap deal in the **Proposal Summary** box **(max 350 ch.)**
+1. Provide a clear **Proposal Title** that capture the essence of the deal you want to offer (max 60 ch.).
+2. Provide a brief outline of the Token Swap deal in the **Proposal Summary** box (max 350 ch.).
 3. In the **Proposal Description** provide the details, background and features of your Token Swap proposal. Explain why it's particularly valuable or unique.
 
 ## Lead Details
 
-1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click ‘MAKE ME THE PROPOSAL LEAD’. 
-    * To learn more about the role and rights of a Proposal Lead please see here. (TODO ADDL INK FAQ)
+1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
+    - To learn more about the role and rights of a Proposal Lead please see [here](https://deals.prime.xyz/documentation/documentation/TokenSwapFAQ#proposal-lead).
 3. Provide the **Contact E-mail (optional)**
 4. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
     * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
@@ -26,20 +27,12 @@ You can follow the example of a Partnered Deal linked [here](/documentation/Crea
 
 ## Primary DAO Details
 
-1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click ‘MAKE ME THE PROPOSAL LEAD’. 
-    - To learn more about the role and rights of a Proposal Lead please see here. (TODO ADDL INK FAQ)
-2. Provide the **Contact E-mail (optional)**
-3. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
-    - Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
-    - You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representatives can discuss the clauses, regardless if the deal is public or private.
-    - A negotiated deal that has been turned public can be turned back into private, and vice versa.
-
 Fill in the details of the Primary DAO. This is the DAO for which the original proposal is initiated for.
 
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
-3. Provide the Primary DAO Avatar: a public URL to a small **JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.**
-4. Provide the addresses of the Primary DAO Representatives.  To learn more on the role of the DAO Representatives please see here (TODO ADDL INK FAQ).
+3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
+4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see [here](https://prime.deals.xyz/documentation/TokenSwapFAQ#representatives).
 
 ### Partner DAO Details
 
@@ -51,11 +44,11 @@ In this section you have to fill in the details of the token(s) that both DAOs w
 
 First add the Token details for the Primary DAO, then, move on the Partner DAO step and fill the Token details too. 
 
-Click on ‘ADD TOKEN +’, this will open up a box in which you’ll be able to input the Token details.
+Click on <kbd>ADD TOKEN +</kbd>, this will open up a box in which you’ll be able to input the Token details.
 
 For each type of token that a DAO want to swap you’d need to provide these details:
 
-1. The native token address
+1. The native address of the token to swap.
 2. The **Total Amount of Tokens to Swap** which defines the total amount of tokens that will be transferred to the other DAO during the swap. You can adjust this amount at any time before the beginning of the Funding phase of the deal.
 3. The **Instant Transfer Setup and the Vesting setup**
     - Toggle the vesting schedule to define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested once the deal is executed on-chain. The Instant Transfer amount will be immediately sent to the other DAO's treasury address, whereas the Vested amount is the amount of tokens that will be released progressively throughout the total Vesting period defined in the Vesting setup in the next step below.
@@ -67,46 +60,43 @@ For each type of token that a DAO want to swap you’d need to provide these det
 
 In this section you have to provide all the important clauses of your proposal (max. 10). Please be specific and clear so that everyone can understand the terms of the agreement between the parties involved. This document can serve as a single source of truth for future reference.
 
-1. Click the button ‘ADD CLAUSE +’
+1. Click the button <kbd>ADD CLAUSE +</kbd>
 2. Write the text of your clause (max 500 ch.)
-3. Click ‘SAVE’ to save this clause and move to the next.
-4. You can edit a clause with the ‘EDIT’ button.
+3. Click <kbd>SAVE</kbd> to save this clause and move to the next.
+4. You can edit a clause with the <kbd>EDIT</kbd> button.
 5. Make sure have written and saved all clauses
 
-Click ‘PROCEED’ at the bottom of the page to move onto the next section
+Click <kbd>PROCEED</kbd> at the bottom of the page to move onto the next section
 
 ## Submit
 
 In this section you can visualize a summary of all the information you have input. Please, inspect all parts of the summary byword and make sure they precisely reflect what you want to propose. If you spot an error, you can navigate to previous sections of this wizard to correct them before submitting your proposal. It's your responsibility to verify that all the relevant information is correct (e.g. Treasury address, Deal Representative addresses, Token addresses, Token amount, etc.). PrimeDAO don't offer any validation process to verify your input. For instance, it cannot verifies whether a treasury address is related to a certain DAO. 
 
-When you are ready click ‘SUBMIT’. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.
+When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.
 
 # Example of a Partnered Deal input
 
 ## Proposal Title
 
-Examples:
+Ex.
 
-> Partnership Agreement ADAO <> BDAO
-> 
+<pre>Partnership Agreement ADAO <> BDAO</pre>
 
-> Token Swap Agreement ADAO <> BDAO
-> 
+<code>Token Swap Agreement ADAO <> BDAO</code>
 
 ## Proposal Summary
 
-- State the general reasons for what this token swap aims to achieve. Is it to align interests, to collaborate on a strategy, to build together, to participate in a program?
+State the general reasons for what this token swap aims to achieve. Is it to align interests, to collaborate on a strategy, to build together, to participate in a program?
     
-    Example:
+Ex.
     
-    > The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.
-    > 
-- State the value and amount of the tokens to be swapped by each party.
+<pre>The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</pre>
+
+State the value and amount of the tokens to be swapped by each party.
     
-    Example:
+Ex.
     
-    > DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO.
-    > 
+DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO. 
 
 ## Proposal Description
 

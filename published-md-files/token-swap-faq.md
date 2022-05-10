@@ -112,7 +112,9 @@ If you define a Cliff period, tokens will still be linearly released but they wo
 
 Since the vesting already starts at the execution of the deal, the Deal Representatives can claim the amount of tokens that has been compounded since the execution of the deal.
 
+
 ![https://ik.imagekit.io/primedao/PrimeDeals/prime-deals-vesting-graph_TsA0D1opU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651666992668](https://ik.imagekit.io/primedao/PrimeDeals/prime-deals-vesting-graph_TsA0D1opU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651666992668)
+
 
 Check the example below to better understand:
 
