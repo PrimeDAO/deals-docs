@@ -80,7 +80,7 @@ When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might requir
 
 Ex.
 
- <div style="white-space: pre-wrap;">Partnership Agreement ADAO <> BDAO</div>
+ <div class="sample"; style="white-space: pre-wrap; border: 1px solid lime; border-radius: 5px; padding: 5px;">Partnership Agreement ADAO <> BDAO</div>
 
  <div style="white-space: pre-wrap;">Token Swap Agreement ADAO <> BDAO</div>
 
