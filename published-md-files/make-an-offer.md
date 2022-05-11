@@ -18,7 +18,7 @@ You will also be able to edit different sections depending on how the Open Propo
 
 ### Lead Details
 
-*This step is optional and relevant only if the original Proposal Lead has waived their administrative rights.*
+_This step is optional and relevant only if the original Proposal Lead has waived their administrative rights._
 
 1. Provide the Ethereum address for the Proposal Lead who will acquire the administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
     - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/documentation/TokenSwapFAQ#proposal-lead" router-ignore>here</a>.
