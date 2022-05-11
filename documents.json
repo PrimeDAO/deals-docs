@@ -1,6 +1,6 @@
 {
     "documents": [{
-            "title": "Getting Started",
+            "title": "GETTING STARTED",
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/getting-started.md"
         },
         {
@@ -16,7 +16,7 @@
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/architecture.md"
         },
         {
-            "title": "Initiate a Token Swap",
+            "title": "INITIATE A DEAL",
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/token-swap.md"
         },
         {
@@ -64,7 +64,7 @@
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/claim-tokens.md"
         },
         {
-            "title": "DEALS RESOURCES",
+            "title": "LINKS & RESOURCES",
             "url": "https://raw.githubusercontent.com/PrimeDAO/deals-docs/main/published-md-files/resources.md"
         }
     ]
