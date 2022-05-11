@@ -2,13 +2,14 @@
 
 ## What is Prime Deals?
 
-Prime Deals is a platform to host and facilitate various types of DAO to DAO (D2D) negotiations. With our platform any DAO can easily propose, discuss and ratify agreements, and execute the deal on-chain.
+**Prime Deals** is a platform to host and facilitate various types of DAO to DAO (D2D) negotiations. With our platform any DAO can easily propose, discuss and ratify agreements, and execute the deal on-chain.
 
 At first, Prime Deals will feature the **Token Swap**, a module that allows DAOs to execute trustless token swaps among them with customized vesting options. Prime Deals will progressively release further modules to facilitate additional types of contract-based interactions such as **Joint Venture** in the near future and **Co-liquidity Pool** later on.
 
 ## Why should I use Prime Deals?
 
-Prime Deals have numerous advantages as compared to negotiating deals with cumbersome coordination processes and bespoke contract interactions. If you want to learn more about Prime Deals smart contract architecture, please see [here](https://deals.prime.xyz/documentation/SmartContractArchitecture). 
+Prime Deals have numerous advantages as compared to negotiating deals with cumbersome coordination processes and bespoke contract interactions. If you want to learn more about Prime Deals smart contract architecture, please see <a href="/documentation/SmartContractArchitecture" router-ignore>here</a>.
+
 
 Here you find a detailed list of features that you can find in Prime Deals modules. 
 
@@ -39,7 +40,7 @@ Here you find a detailed list of features that you can find in Prime Deals modul
 
 **Prime Deals is governance framework agnostic**
 
-- It doesn’t matter if you’re running on [Gnosis Safe](https://gnosis-safe.io/), [Daohaus](https://daohaus.club/), or [DAOstack](https://daostack.io/) *—* any governance framework will work with Prime Deals.
+- It doesn’t matter if you’re running on <a href="https://gnosis-safe.io/" target="_blank" rel="noopener noreferrer">Gnosis Safe</a>, <a href="https://daohaus.club/" target="_blank" rel="noopener noreferrer">Daohaus</a>, or <a href="https://daostack.io/" target="_blank" rel="noopener noreferrer">DAOstack</a> — any governance framework will work with Prime Deals.
 
 ### How is Prime Deals unique?
 
@@ -59,17 +60,12 @@ Indeed, PrimeDAO believe that the rapidly evolution of web3 infrastructure and t
 
 If you want to learn more about the theoretical backing and mechanism principles that led up to Prime Deals, you can check the following blogs:
 
-[D2D: Towards Decentralized Negotiation Protocols](https://blog.curvelabs.eu/d2d-towards-decentralized-negotiation-protocols-e37d164e91e6)
-
-[Conceptual Models for DAO2DAO Relations](https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d)
-
-[Exploring DAO2DAO Collaboration Mechanisms](https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21)
-
-[It’s Time For DAO-to-DAO Coordination](https://medium.com/primedao/its-time-for-dao-to-dao-coordination-8791ec78545f)
-
-[Prime Deals: Trustless DAO2DAO, the cryptonative way](https://medium.com/primedao/prime-deals-trustless-dao2dao-the-cryptonative-way-261210ccda96)
-
-[The Next Stage of DAO Evolution: Networked Cooperation, Powered by Prime Deals](https://primedao.mirror.xyz/PDPyApTLgS2FwPDFsqSrgbmN82eHBek_x33HU9Drrm8)
+<a href="https://blog.curvelabs.eu/d2d-towards-decentralized-negotiation-protocols-e37d164e91e6" target="_blank" rel="noopener noreferrer">D2D: Towards Decentralized Negotiation Protocols</a>
+<a href="https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d" target="_blank" rel="noopener noreferrer">Conceptual Models for DAO2DAO Relations</a>
+<a href="https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21" target="_blank" rel="noopener noreferrer">Exploring DAO2DAO Collaboration Mechanisms</a>
+<a href="https://medium.com/primedao/its-time-for-dao-to-dao-coordination-8791ec78545f" target="_blank" rel="noopener noreferrer">It’s Time For DAO-to-DAO Coordination</a>
+<a href="https://medium.com/primedao/prime-deals-trustless-dao2dao-the-cryptonative-way-261210ccda96" target="_blank" rel="noopener noreferrer">Prime Deals: Trustless DAO2DAO, the cryptonative way</a>
+<a href="https://primedao.mirror.xyz/PDPyApTLgS2FwPDFsqSrgbmN82eHBek_x33HU9Drrm8" target="_blank" rel="noopener noreferrer">The Next Stage of DAO Evolution: Networked Cooperation, Powered by Prime Deals</a>
 
 ### How is Prime Deals governed and operated? Who owns Prime Deals?
 
