@@ -1,4 +1,4 @@
-## Claim tokens after a Swap
+# Claim tokens after a Swap
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/12-claim__h_EN9zdo.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
