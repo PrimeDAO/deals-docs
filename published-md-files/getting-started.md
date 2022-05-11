@@ -69,4 +69,4 @@ If you want to learn more about the theoretical backing and mechanism principles
 
 ### How is Prime Deals governed and operated? Who owns Prime Deals?
 
-Prime Deals is owned and operated by PrimeDAO, which funded Prime Deal's development. To learn more about PrimeDAO governance please join the [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG).
+Prime Deals is owned and operated by PrimeDAO, which funded Prime Deal's development. To learn more about PrimeDAO governance please join the <a href="https://discord.com/invite/x8v59pG" target="_blank" rel="noopener noreferrer">PrimeDAO Discord Server</a>.
