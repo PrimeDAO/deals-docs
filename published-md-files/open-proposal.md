@@ -30,7 +30,7 @@ Fill in the details of the Primary DAO. This is the DAO for which the original p
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see [here](/documentation/TokenSwapFAQ#representatives).
+4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ#representatives" router-ignore>here</a>.
 
 ### Token details
 

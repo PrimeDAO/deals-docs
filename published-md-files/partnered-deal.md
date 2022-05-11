@@ -6,9 +6,8 @@ Please note that you can always come back to edit your input before you click th
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-~~TEST STICKY HEADER SCROLL SETUP~~
-You can follow the example of a Partnered Deal linked [here](https://prime-deals-staging.vercel.app/documentation/CreateaPartneredDeal#example-of-a-partnered-deal-input) as a template for your deal. 
-~~TEST STICKY HEADER SCROLL SETUP~~
+You can follow the example of a Partnered Deal linked <a href="/documentation/CreateaPartneredDeal#*Example*-of-a-partnered-deal-input" router-ignore>here</a> as a template for your deal. 
+
 ## Token Swap Proposal
 
 1. Provide a clear **Proposal Title** that capture the essence of the deal you want to offer (max 60 ch.).
@@ -18,7 +17,7 @@ You can follow the example of a Partnered Deal linked [here](https://prime-deals
 ## Lead Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
-    - To learn more about the role and rights of a Proposal Lead please see [here](https://deals.prime.xyz/documentation/documentation/TokenSwapFAQ#proposal-lead).
+    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ#proposal-lead" router-ignore>here</a>.
 3. Provide the **Contact E-mail (optional)**
 4. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
     * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
@@ -32,7 +31,7 @@ Fill in the details of the Primary DAO. This is the DAO for which the original p
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see [here](https://prime.deals.xyz/documentation/TokenSwapFAQ#representatives).
+4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ#representatives" router-ignore>here</a>.
 
 ### Partner DAO Details
 
@@ -74,15 +73,15 @@ In this section you can visualize a summary of all the information you have inpu
 
 When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.
 
-# Example of a Partnered Deal input
+# *Example* of a Partnered Deal input
 
 ## Proposal Title
 
-**Example**
+*Example*
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Agreement ADAO <> BDAO</div>
 
-**Example**
+*Example*
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap Agreement ADAO <> BDAO</div>
 
@@ -90,13 +89,13 @@ When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might requir
 
 State the general reasons for what this token swap aims to achieve. Is it to align interests, to collaborate on a strategy, to build together, to participate in a program?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The partnership aims to set the foundation for a long-term collaboration between DAO1 and DAO2. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible ProjectA to xChain.</div>
 
 State the value and amount of the tokens to be swapped by each party.
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 seeks to partner with DAO2 asking for a swap of $250k in governance tokens from each DAO.</div>
 
@@ -116,7 +115,7 @@ Give an overview of the partnership and scope of collaboration.
 - Provide external link if there is a doc version of this proposal.
 - Provide external links if there are forum posts related to this proposal.
     
-**Example**
+*Example*
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Background on the Partnership: The relationship between DAO1 and DAO2 goes back to <Date>. Since the launch of DAO1 in <Date>, the DAO2 has played a crucial role in the DAO1 ecosystem.</div>
     
@@ -136,7 +135,7 @@ Start the clause with a title, and then expand on it. This is a set of suggested
 
 What are the exact collaboration areas and commitments from each DAO?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 will support the development of the DAO2 and, where possible, share learnings and resources with DAO2.</div>
 
@@ -148,13 +147,13 @@ What are the exact collaboration areas and commitments from each DAO?
 
 Does the partnership have an end date?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Term: ****The Partnership is open-ended and does not have an expiry date.</div>
 
 What are the rules for terminating this partnership? Is there an exit clause?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Exit Clause: ****Both organizations can at any moment terminate the agreement through their respective governance systems.</div> 
 
@@ -162,7 +161,7 @@ What are the rules for terminating this partnership? Is there an exit clause?
 
 What are the technical aspects of this collaboration? Is there a specific development or implementation planned? Is there a product integration?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 will continue to host this protocol and support the development of it on DAO2’s protocol.</div> 
     
@@ -176,15 +175,15 @@ What are the technical aspects of this collaboration? Is there a specific develo
 
 How are the token swap amounts calculated? Provide the dollar value of the tokens to be swapped from each side, and how it is calculated. If it is Moving Average based on a time period, provide the time period for calculating the MA, and from what date it will be calculated.
     
-**Example**
+*Example*
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap: $50.000 worth of $DAO2 tokens will be swapped for $50,000 of $DAO1 tokens taken the 30-day average at the end of the vote on both sides.</div>
 
-**Example**
+*Example*
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Mutual Grant: Grant DAO2 $250K USD worth of DAO1’s $DAO1 governance token, and grant DAO1 $250,000 USD worth of $DAO2 governance tokens, calculated through the 30-day average at the end of the vote on both side.</div>
 
-**Example**
+*Example*
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Token Swap where a DAO’s token value is calculated differently for the deal than the market price: Conduct a token swap of $250k in $DAO2 tokens from a 30 day TWAP from the date of execution of this proposal - in return for 500k $DAO1 tokens being 0.5% supply at a $50 million fully diluted valuation of DAO1.</div>
 
@@ -192,7 +191,7 @@ How are the token swap amounts calculated? Provide the dollar value of the token
 
 Is there an agreement for how to utilize the swapped tokens?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.</div>
     
@@ -200,7 +199,7 @@ Is there an agreement for how to utilize the swapped tokens?
 
 ### Co-liquidity provision
 
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To align governance interests, between the two organizations, the creation of a co-liquidity pool is proposed with the following details; 25,000 $DAO2 tokens would be transferred to DAO1 at the end of this date or deliverable  to bootstrap a DAO1 / DAO2 pool with 50/50 weights and 2,5% trading fees.</div>
 
@@ -212,7 +211,7 @@ Is there an agreement for how to utilize the swapped tokens?
 
 Is there any rules for selling other DAO’s swapped tokens?
     
-**Example**
+*Example*
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To ensure long-term alignment, DAO1 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO2 ecosystem. And DAO2 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO1 ecosystem.</div> 
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Each protocol undertakes to not reduce its holding or exposure to the swapped tokens for at least a period until 1 January 2023.</div>
@@ -221,7 +220,7 @@ Is there any rules for selling other DAO’s swapped tokens?
 
 How will the partnership move forward and kept track of?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Both DAOs will actively share DAO operational learnings and workflows, starting with a bi-monthly knowledge-sharing session covering three topics relevant to both DAOs. The first session will be organized in mid-January.</div>
   
@@ -231,7 +230,7 @@ How will the partnership move forward and kept track of?
 
 Does this partnership create a customized governance access to the other DAO? If so, how will this be done?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The DAO1xDAO2 liquidity pool token will be added to the Snapshot strategies of both DAOs to allow DAO1xDAO2 token holders to participate in the Governance of both protocols.</div>
 
@@ -239,12 +238,12 @@ Does this partnership create a customized governance access to the other DAO? If
 
 How will this partnership be overseen? Who are the individuals responsible for running this partnership?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Governance: The partnership is managed by Deal Representatives of the organizations. The respective governance processes of both DAOs can overwrite any decision by Deal Representatives. In the case of this partnership, there are 2 representatives for each organization.</div>
 
 What happens when DAOs want to rule over a clause agreed upon on the deal, or use the tokens in a different way than what is specified in the deal?
     
-**Example**
+*Example*
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.</div> 
