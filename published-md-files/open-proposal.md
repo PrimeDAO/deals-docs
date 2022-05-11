@@ -13,7 +13,7 @@ The wizard will guide you through the process of creating an Open Proposal. Plea
 ### Lead Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
-    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/documentation/TokenSwapFAQ#proposal-lead" router-ignore>here</a>.
+    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ#proposal-lead" router-ignore>here</a>.
 2. Provide the **Contact E-mail (optional)**
 3. Select if you want to **Keep Administrative Rights with all incoming offers.** It’s highly recommended that you transfer your administrative rights only if you anticipate many incoming offers for this proposal and won't have time to manage them. For a list of pros and cons please see <a href="/documentation/TokenSwapFAQ#keeping-admin-rights" router-ignore>here</a>.
     - Toggle this option on if you would like to retain the Proposal Lead role to yourself. This will allow you to continue manage all the offers incoming to your Open Proposal.

@@ -21,7 +21,7 @@ It’s also important to remember that PrimeDAO offers a few other products to s
 
 ## How is PrimeDAO committed to open-source with Prime Deals?
 
-You can verify and fork Prime DAO’s work at the <a href="https://github.com/PrimeDAO/prime-deals-dapp" target="_blank" rel="noopener noreferrer">Prime Deals dApp repository</a> and at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deal contracts repository</a>.
+You can verify and fork Prime DAO’s work at the <a href="https://github.com/PrimeDAO/prime-deals-dapp" target="_blank" rel="noopener noreferrer">Prime Deals dApp repository</a> and at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deals contracts repository</a>.
 
 ## How do I get technical support from PrimeDAO?
 

@@ -21,7 +21,7 @@ A DAO Treasury Address is the address that will receive tokens from the other DA
 
 ## In short, what is the process of a making a Token Swap happen on Prime Deals?
 
-Here is an high-level summary of the most relevant steps in a Token Swap. For an in-depth walkthrough and for a more clear differentiation between Open Proposals and Partnered Deals, please refer to the relevant step-by-step tutorials [here](https://deals.prime.xyz/documentation/InitiateandconductaTokenSwap).
+Here is an high-level summary of the most relevant steps in a Token Swap. For an in-depth walkthrough and for a more clear differentiation between Open Proposals and Partnered Deals, please refer to the relevant step-by-step tutorials <a href="/documentation/InitiateandconductaTokenSwap" router-ignore>here</a>.
 
 1. Decide if you want to start an Open Proposal or a Partnered Deal.
 2. Provide a brief description of your proposal.
