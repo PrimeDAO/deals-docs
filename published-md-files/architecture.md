@@ -26,31 +26,28 @@ The `DealModule` contract serves as the first point of contact in creating a dea
 
 When the deal is executed, the `DealModule` will verify if all the conditions for the deal are met, i.e. that all deposits have been made. Next, the module will proceed to pull all the tokens involved in the token swap from each DAOs `DaoDepositContract` into the module. By doing this, all the tokens involved are pooled into the module. The following step in the execution process is to transfer all the unvested tokens to the DAO addresses, after which it sends the to-be-vested token amount into the respective DAOs `DaoDepositContract` to start the vesting period.
 
-Prime Deals Token Swap contracts have been audited by byterocket GmbH. The report is available [here](https://byterocket.com/audit/primedeals-token-swaps).
+Prime Deals Token Swap contracts have been audited by byterocket GmbH. The report is available <a href="https://byterocket.com/audit/primedeals-token-swaps" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## What are the states a Token Swap deal can take on?
 
 A deal can exist in the following states (also known as *phases*):
 
-**`Active`**
+`Active`
+`Cancelled`
+`Negotiating`
+`Funding` (in Progress)
 
-**`Cancelled`**
+(Token Swap) `Completed`
 
-**`Negotiating`**
+(Token Swap) `Failed`
 
-**`Funding`** (in Progress)
-
-(Token Swap) **`Completed`**
-
-(Token Swap) **`Failed`**
-
-**`Active`**
+`Active`
 
 - An Open Proposal is running
 - Deal is open to receive an offer from a prospective Partner DAO
 - Anyone can connect with their wallet and discuss the clauses except when it’s set private
 
-**`Cancelled`**
+`Cancelled`
 
 - Discussing, Editing and Voting the deal is no longer possible
 
@@ -62,16 +59,16 @@ OR when
 
 - The Proposal Lead has deliberately chosen to reject a Partnered deal. This can happen at any time as long as the deal has not been approved (by greater than 50 % of the vote).
 
-**`Negotiating`**
+`Negotiating`
 
 - Two DAOs (Primary DAO and Partner DAO) are involved
 - Deal clauses can be discussed by the Proposal Lead and the Deal Representatives
 - Deal can be modified by the Proposal Lead
 - Edits to the deal automatically resets all votes that have been already casted. The only edit that won’t reset all votes is the change of a deal from private to public.
 - Voting the deal is possible by the Deal Representatives
-- In this phase, voting is in progress (voting rules can be found [here](https://deals.prime.xyz/documentation/VoteonaDeal). When the majority of the Deal Representatives for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
+- In this phase, voting is in progress (voting rules can be found <a href="https://deals.prime.xyz/documentation/VoteonaDeal" router-ignore>here</a>. When the majority of the Deal Representatives for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
 
-**`Funding`** (in Progress)
+`Funding` (in Progress)
 
 - Can happen only after the majority of the Deal Representatives for each DAO have voted favorably for the deal
 - Can happen only before the end of the specified Funding Period
@@ -81,7 +78,7 @@ OR when
 - The Deal Representatives can deposit from the UI (Note that anyone can technically deposit tokens directly to the contract if they know the address)
 - If the Funding Period is not expired and the all the funds have been successfully collected, the deal become executable by either the Proposal Lead or any of the Deal Representatives in the UI
 
-(Token Swap) **`Failed`**
+(Token Swap) `Failed`
 
 - The deal never became executable or executed.
 - Discussions are no longer possible
@@ -99,7 +96,7 @@ OR
 
 - Voting is completed, Proposal Lead initiated Funding phase, Deal Representatives fully funded the deal but the Proposal Lead failed to execute the deal within the given time.
 
-(Token Swap) **`Completed`**
+(Token Swap) `Completed`
 
 - The deal has been manually executed
 - Discussions are no longer possible
@@ -112,49 +109,49 @@ This is an updated list of error messages that can be printed on screen while tr
 
 ## PrimeDAO General init related
 
-- `001` : <samp>Contract already exists, already initialized`</samp>
+- `001` : Contract already exists, already initialized
 
 ## PrimeDAO General input
 
-- `100` : `Invalid input address`
-- `101` : `Input value cannot be empty`
-- `102` : `Input arrays length mismatch`
-- `103` : `Amounts mismatch`
+- `100` :  Invalid input address 
+- `101` :  Input value cannot be empty 
+- `102` :  Input arrays length mismatch 
+- `103` :  Amounts mismatch 
 
 ## Prime Deals specific
 
 ### Input (200 - 219)
 
-- `200` : `Invalid deposit ID`
-- `201` : `Vesting cliff cannot be bigger than the vesting duration`
-- `202` : `msg.value does not match the input value`
-- `203` : `Invalid metadata, it already exists`
-- `204` : `Invalid amount of DAOs, at least 2 are required`
-- `205` : `Invalid amount of tokens, at least 1 is required`
-- `206` : `Invalid metadata`
-- `207` : `Invalid deal ID`
+- `200` :  Invalid deposit ID 
+- `201` :  Vesting cliff cannot be bigger than the vesting duration 
+- `202` :  msg.value does not match the input value 
+- `203` :  Invalid metadata, it already exists 
+- `204` :  Invalid amount of DAOs, at least 2 are required 
+- `205` :  Invalid amount of tokens, at least 1 is required 
+- `206` :  Invalid metadata 
+- `207` :  Invalid deal ID 
 
 ### Permissions (220 - 239)
 
-- `220` : `Can only be called by a Deals module contract`
-- `221` : `Can only be called by the DealManager contract`
-- `222` : `Withdraw not authorized msg.sender is not the depositor or the deal has not been expired`
+- `220` :  Can only be called by a Deals module contract 
+- `221` :  Can only be called by the DealManager contract 
+- `222` :  Withdraw not authorized msg.sender is not the depositor or the deal has not been expired 
 
 ### Tokens (240 - 259)
 
-- `240` : `No withdrawable amount available`
-- `241` : `ERC20 token transfer failed`
-- `242` : `ETH transfer failed`
-- `243` : `ERC20 token approve failed`
-- `244` : `Claimable amounts mismatch`
-- `245` : `Invalid balance`
+- `240` :  No withdrawable amount available 
+- `241` :  ERC20 token transfer failed 
+- `242` :  ETH transfer failed 
+- `243` :  ERC20 token approve failed 
+- `244` :  Claimable amounts mismatch 
+- `245` :  Invalid balance 
 
 ### General (260 - )
 
-- `260` : `Invalid DealManager address set in the contract`
-- `261` : `DaoDepositManager implementation is not set`
-- `262` : `Not enough tokens or ETH are sent to the module`
-- `263` : `Function call only available for ERC20 tokens`
-- `264` : `Fee cannot be more then 20%`
-- `265` : `Swap is not executable`
-- `266` : `Deal status is not ACTIVE`
+- `260` :  Invalid DealManager address set in the contract 
+- `261` :  DaoDepositManager implementation is not set 
+- `262` :  Not enough tokens or ETH are sent to the module 
+- `263`  :  Function call only available for ERC20 tokens
+- `264`  :  Fee cannot be more then 20%
+- `265` :  Swap is not executable
+- `266` :  Deal status is not ACTIVE 

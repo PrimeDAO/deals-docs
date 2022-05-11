@@ -2,7 +2,7 @@
 
 ## How can I get in touch with the Prime Deals team?
 
-You can always reach out to the team in the [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG). If you have specific support requests related to Prime Deals you can also reach out to the team via the [contact form](https://form.typeform.com/to/SUCTM812).
+You can always reach out to the team in the <a href="https://discord.com/invite/x8v59pG" target="_blank" rel="noopener noreferrer">PrimeDAO Discord Server</a>. If you have specific support requests related to Prime Deals you can also reach out to the team via the <a href="https://form.typeform.com/to/SUCTM812" target="_blank" rel="noopener noreferrer">contact form</a>.
 
 ## On which chains does Prime Deals operate?
 
@@ -10,7 +10,7 @@ The first release of Prime Deals will be operating exclusively on Mainnet. In Ju
 
 ## What other services does PrimeDAO provide?
 
-PrimeDAO can help you successfully craft your deal and offer you additional support if needed.  You can inquire about this by reaching out in the [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG).
+PrimeDAO can help you successfully craft your deal and offer you additional support if needed.  You can inquire about this by reaching out in the <a href="https://discord.com/invite/x8v59pG" target="_blank" rel="noopener noreferrer">PrimeDAO Discord Server</a>.
 
 It’s also important to remember that PrimeDAO offers a few other products to support your DAO to evolve:
 
@@ -21,11 +21,12 @@ It’s also important to remember that PrimeDAO offers a few other products to s
 
 ## How is PrimeDAO committed to open-source with Prime Deals?
 
-You can verify and fork Prime DAO’s work [on the Prime Deals dApp](https://github.com/PrimeDAO/prime-deals-dapp) repository and at the [deals-contracts](https://github.com/PrimeDAO/deals-contracts) repository.
+You can verify and fork Prime DAO’s work at the <a href="https://github.com/PrimeDAO/prime-deals-dapp" target="_blank" rel="noopener noreferrer">Prime Deals dApp repository</a> and at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deal contracts repository</a>.
 
 ## How do I get technical support from PrimeDAO?
 
-If you have specific support requests related to Prime Deals you can reach out to the Prime DAO team via the [contact form](https://form.typeform.com/to/SUCTM812).
+If you have specific support requests related to Prime Deals you can reach out to the Prime DAO team via the <a href="https://form.typeform.com/to/SUCTM812" target="_blank" rel="noopener noreferrer">contact form</a>.
+
 
 <a name="daoplomat"></a>
 

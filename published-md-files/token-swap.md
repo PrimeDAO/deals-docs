@@ -11,6 +11,6 @@
 3. Click on <kbd>Select</kbd> in the Token Swap box to initiate the wizard. (In the future other modules will become available).
 4. In the very first step of the wizard you will have to pick between **Open Proposal** and **Partnered Deal**. If you don’t have a prospective Partner DAO that you want to bring to table yet select <kbd>Open Proposal</kbd>. In this way you will you be able to launch a proposal and receive many offers from various prospective partners. In case you already have a Partner DAO choose <kbd>Partnered Deal</kbd>.
 
-Follow a detailed walkthrough to create an Open Proposal [here](https://deals.prime.xyz/documentation/CreateanOpenProposal)
+Follow a detailed walkthrough to create an Open Proposal <a href="/documentation/CreateanOpenProposal" router-ignore>here</a>.
 
-Follow a detailed walkthrough to create for Partnered Deal [here](https://deals.prime.xyz/documentation/CreateaPartneredDeal)
+Follow a detailed walkthrough to create for Partnered Deal <a href="/documentation/CreateaPartneredDeal" router-ignore>here</a>.
