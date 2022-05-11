@@ -60,12 +60,12 @@ Indeed, PrimeDAO believe that the rapidly evolution of web3 infrastructure and t
 
 If you want to learn more about the theoretical backing and mechanism principles that led up to Prime Deals, you can check the following blogs:
 
-<a href="https://blog.curvelabs.eu/d2d-towards-decentralized-negotiation-protocols-e37d164e91e6" target="_blank" rel="noopener noreferrer">D2D: Towards Decentralized Negotiation Protocols</a>
-<a href="https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d" target="_blank" rel="noopener noreferrer">Conceptual Models for DAO2DAO Relations</a>
-<a href="https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21" target="_blank" rel="noopener noreferrer">Exploring DAO2DAO Collaboration Mechanisms</a>
-<a href="https://medium.com/primedao/its-time-for-dao-to-dao-coordination-8791ec78545f" target="_blank" rel="noopener noreferrer">It’s Time For DAO-to-DAO Coordination</a>
-<a href="https://medium.com/primedao/prime-deals-trustless-dao2dao-the-cryptonative-way-261210ccda96" target="_blank" rel="noopener noreferrer">Prime Deals: Trustless DAO2DAO, the cryptonative way</a>
-<a href="https://primedao.mirror.xyz/PDPyApTLgS2FwPDFsqSrgbmN82eHBek_x33HU9Drrm8" target="_blank" rel="noopener noreferrer">The Next Stage of DAO Evolution: Networked Cooperation, Powered by Prime Deals</a>
+- <a href="https://blog.curvelabs.eu/d2d-towards-decentralized-negotiation-protocols-e37d164e91e6" target="_blank" rel="noopener noreferrer">D2D: Towards Decentralized Negotiation Protocols</a>
+- <a href="https://medium.com/primedao/conceptual-models-for-dao2dao-relations-ac2b2d3cc84d" target="_blank" rel="noopener noreferrer">Conceptual Models for DAO2DAO Relations</a>
+- <a href="https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21" target="_blank" rel="noopener noreferrer">Exploring DAO2DAO Collaboration Mechanisms</a>
+- <a href="https://medium.com/primedao/its-time-for-dao-to-dao-coordination-8791ec78545f" target="_blank" rel="noopener noreferrer">It’s Time For DAO-to-DAO Coordination</a>
+- <a href="https://medium.com/primedao/prime-deals-trustless-dao2dao-the-cryptonative-way-261210ccda96" target="_blank" rel="noopener noreferrer">Prime Deals: Trustless DAO2DAO, the cryptonative way</a>
+- <a href="https://primedao.mirror.xyz/PDPyApTLgS2FwPDFsqSrgbmN82eHBek_x33HU9Drrm8" target="_blank" rel="noopener noreferrer">The Next Stage of DAO Evolution: Networked Cooperation, Powered by Prime Deals</a>
 
 ### How is Prime Deals governed and operated? Who owns Prime Deals?
 
