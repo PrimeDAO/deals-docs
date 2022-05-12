@@ -10,7 +10,11 @@ The Prime Deals architecture consists of three main components. These are:
 - `DaoDepositManager`
 - `DealModule`
 
+### Deal Manager
+
 The `DealManager` contract serves as a central registry, managing and storing the addresses of all the contracts involved in Prime Deals. It activates and deactivates new Deals modules and creates `DaoDepositManager`contracts. The `DealManager` is also used in a multitude of authentication processes to make sure that all the contracts involved in Prime Deals are verified contracts part of the Deals Modules. The `DealManager` is governed and managed by PrimeDAO which can add new modules, change fees or intervene in the whole contract to manage extreme events and disasters. **However, this does not grant PrimeDAO with the power to touch any funds or modify deals, as the protocol remains trustless.**
+
+### DaoDepositManager
 
 The `DaoDepositManager` contract serves a similar function to an escrow contract. It can be funded to hold the amount the DAO is contributing to a Deal before it has been executed. After execution, it will hold the agreed-upon vested amount (if applicable) from which the funds can be claimed during and after the vesting period. 
 
@@ -22,11 +26,18 @@ A few other things to highlight are:
 - All the vested DAOs funds are in their own `DaoDepositManager` before and get transferred to the other Dao’s `DaoDepositManager` after the execution
 - All the tokens claimable from vested tokens can only be transferred to the DAOs address as set in the `DaoDepositManager` contract
 
+### DealModule
+
 The `DealModule` contract serves as the first point of contact in creating a deal. It stores all the parameters of the deal on-chain. 
 
 When the deal is executed, the `DealModule` will verify if all the conditions for the deal are met, i.e. that all deposits have been made. Next, the module will proceed to pull all the tokens involved in the token swap from each DAOs `DaoDepositContract` into the module. By doing this, all the tokens involved are pooled into the module. The following step in the execution process is to transfer all the unvested tokens to the DAO addresses, after which it sends the to-be-vested token amount into the respective DAOs `DaoDepositContract` to start the vesting period.
 
-Prime Deals Token Swap contracts have been audited by byterocket GmbH. The report is available <a href="https://byterocket.com/audit/primedeals-token-swaps" target="_blank" rel="noopener noreferrer">here</a>.
+### Security
+
+Security was one of our main concerns during the building of Prime Deals.
+All of the Prime Deals contracts have therefore undergone an extensive audit by our auditing partner **byterocket GmbH**, involving manual as well as automated reviews, state-of-the-art testing methods like fuzz- testing as well as game theoretic reviews of the protocol itself.
+
+The learn more about the audit, please see <a href="https://byterocket.com/audit/primedeals-token-swaps" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## What are the states a Token Swap deal can take on?
 
