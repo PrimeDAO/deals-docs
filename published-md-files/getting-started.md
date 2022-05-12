@@ -8,7 +8,7 @@ At first, Prime Deals will feature the **Token Swap**, a module that allows DAOs
 
 ## Why should I use Prime Deals?
 
-Prime Deals have numerous advantages as compared to negotiating deals with cumbersome coordination processes and bespoke contract interactions. If you want to learn more about Prime Deals smart contract architecture, please see <a href="/documentation/SmartContractArchitecture" router-ignore>here</a>.
+Prime Deals have numerous advantages as compared to negotiating deals with cumbersome coordination processes and bespoke contract interactions. If you want to learn more about Prime Deals smart contract architecture, please see <a href="/documentation/SmartContractArchitecture">here</a>.
 
 
 Here you find a detailed list of features that you can find in Prime Deals modules. 
