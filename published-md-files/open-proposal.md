@@ -13,9 +13,9 @@ The wizard will guide you through the process of creating an Open Proposal. Plea
 ### Lead Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
-    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ#proposal-lead">here</a>.
+    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ/#proposal-lead">here</a>.
 2. Provide the **Contact E-mail (optional)**
-3. Select if you want to **Keep Administrative Rights with all incoming offers.** It’s highly recommended that you transfer your administrative rights only if you anticipate many incoming offers for this proposal and won't have time to manage them. For a list of pros and cons please see <a href="/documentation/TokenSwapFAQ#keeping-admin-rights">here</a>.
+3. Select if you want to **Keep Administrative Rights with all incoming offers.** It’s highly recommended that you transfer your administrative rights only if you anticipate many incoming offers for this proposal and won't have time to manage them. For a list of pros and cons please see <a href="/documentation/TokenSwapFAQ/#keeping-admin-rights">here</a>.
     - Toggle this option on if you would like to retain the Proposal Lead role to yourself. This will allow you to continue manage all the offers incoming to your Open Proposal.
     - If instead you toggle this option off, you will transfer your administrative rights to the prospect Partner DAO. In this case the Partner DAO will have to register a new Proposal Lead address to which the administrative rights will be transferred to.
 4. Decide whether you wanna keep all incoming offers to your proposal private, or if you rather keep these publicly accessible.
@@ -30,7 +30,7 @@ Fill in the details of the Primary DAO. This is the DAO for which the original p
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ#representatives">here</a>.
+4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ/#representatives">here</a>.
 
 ### Token details
 
