@@ -139,7 +139,7 @@ What are the exact collaboration areas and commitments from each DAO?
     
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO1 will support the development of the DAO2 and, where possible, share learnings and resources with DAO2.</div>
 
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO2 will get early access to [](https://www.prime.xyz/deals)DAO1’s upcoming ProductOP, which is described in this definition and has these benefits, to give input, to ensure the product serves the needs of DAO2.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">DAO2 will get early access to DAO1’s upcoming ProductOP, which is described in this definition and has these benefits, to give input, to ensure the product serves the needs of DAO2.</div>
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Liquidity Pool Creation: DAO1 aims to create deep liquidity between DAO1 tokens <> DAO2 tokens for these reasons. Here is the grander strategy for this action.</div>
 
@@ -155,7 +155,7 @@ What are the rules for terminating this partnership? Is there an exit clause?
     
 *Example*
     
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Exit Clause: ****Both organizations can at any moment terminate the agreement through their respective governance systems.</div> 
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Exit Clause: Both organizations can at any moment terminate the agreement through their respective governance systems.</div> 
 
 ### Technical
 
@@ -207,7 +207,7 @@ Is there an agreement for how to utilize the swapped tokens?
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">The pool will again be called the DAO2 <> DAO1 pool and function as a liquidity bridge between the two DAOs. The DAO2xDAO1 pool will be one of the two main liquidity pools for DAO1.</div>
 
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Co-liquidity Provision: ****To enhance alignment, DAO2 will match the received $DAO1 tokens with an equal value in (x) tokens from its treasury and add it to the %50 DAO1/ %50 DAO2 tokens in Balancer. DAO1 will match the received $DAO2 with an amount of (y) - equal to 25% of the amount received - and add it to the %80 DAO2/ %20 (y) pool in Balancer.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Co-liquidity Provision: To enhance alignment, DAO2 will match the received $DAO1 tokens with an equal value in (x) tokens from its treasury and add it to the %50 DAO1/ %50 DAO2 tokens in Balancer. DAO1 will match the received $DAO2 with an amount of (y) - equal to 25% of the amount received - and add it to the %80 DAO2/ %20 (y) pool in Balancer.</div>
 
 Is there any rules for selling other DAO’s swapped tokens?
     
