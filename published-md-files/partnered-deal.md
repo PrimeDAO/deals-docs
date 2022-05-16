@@ -6,7 +6,7 @@ Please note that you can always come back to edit your input before you click th
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-You can follow the example of a Partnered Deal linked <a href="/documentation/CreateaPartneredDea#/example-of-a-partnered-deal-input">here</a> as a template for your deal.
+You can follow the example of a Partnered Deal linked <a href="/documentation/CreateaPartneredDeal/#example-of-a-partnered-deal-input">here</a> as a template for your deal.
 
 ## Token Swap Proposal
 
@@ -17,7 +17,7 @@ You can follow the example of a Partnered Deal linked <a href="/documentation/Cr
 ## Lead Details
 
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
-    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ#/proposal-lead">here</a>.
+    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ/#what-a-proposal-lead-can-and-cannot-do">here</a>.
 3. Provide the **Contact E-mail (optional)**
 4. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
     * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
@@ -31,7 +31,7 @@ Fill in the details of the Primary DAO. This is the DAO for which the original p
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ#/representatives">here</a>.
+4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ/#what-deal-representatives-can-and-cannot-do">here</a>.
 
 ### Partner DAO Details
 

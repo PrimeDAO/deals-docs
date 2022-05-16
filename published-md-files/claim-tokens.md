@@ -13,4 +13,4 @@ Follow these simple steps:
 5. Click <kbd>CLAIM TOKENS</kbd> and confirm the associated transaction that will be prompted in your wallet.
 6. Wait for the confirmation of the transaction.
 
-Please see <a href="/documentation/TokenSwapFAQ#/what-are-the-vesting-setup-and-the-cliff-period">here</a> for a detailed explanation of how vesting and cliff works.
+Please see <a href="/documentation/TokenSwapFAQ/#what-are-the-vesting-setup-and-the-cliff-period">here</a> for a detailed explanation of how vesting and cliff works.

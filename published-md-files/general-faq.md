@@ -32,6 +32,4 @@ If you have specific support requests related to Prime Deals you can reach out t
 
 ## What is a DAOplomat?
 
-<a name="daoplomat"></a>
-
 The notion of ‘DAOplomat’ refers to any entity internal or external to a DAO who have the interest to bring the two parties together to make the deal happen, and offer themselves as a Proposal Lead. Soon, DAOplomats will be able to earn rewards. This upcoming feature makes it financially interesting for people to intercept and foster potential deal making between DAOs.
