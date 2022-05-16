@@ -21,7 +21,7 @@ You will also be able to edit different sections depending on how the Open Propo
 *This step is optional and relevant only if the original Proposal Lead has waived their administrative rights.*
 
 1. Provide the Ethereum address for the Proposal Lead who will acquire the administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
-    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ#proposal-lead">here</a>.
+    - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ#/proposal-lead">here</a>.
 2. Provide the **Contact E-mail (optional)**
 3. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
     - Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
@@ -36,7 +36,7 @@ In this section you can fill in the details of the Partner DAO. This is the DAO 
 1. Provide the **Partner DAO Name**
 2. Provide the **Partner DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Partner DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Partner DAO Representatives**. To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ#representatives">here</a>. 
+4. Provide the addresses of the **Partner DAO Representatives**. To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ#/representatives">here</a>. 
 
 Click <kbd>PROCEED</kbd> at the bottom of the page to move onto the next section
 
