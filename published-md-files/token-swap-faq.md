@@ -151,9 +151,9 @@ Failed deals don’t get removed from the Prime Deals interface so that anyone c
 
 Yes, the Proposal Lead can set the deal private at any time from the deal dashboard.
 
-<a name="privacy"></a>
-
 Changing the deal privacy setting is the only edit to a deal that will not reset already casted votes. There are various scenarios in which a DAO would want to toggle the deal from private to public, and vice versa.
+
+<a name="privacy"></a>
 
 For instance, some DAOs want to privately hold the negotiation process, and if an agreement is successfully reached and executed on chain they might want to share it publicly to their communities and to prompt future collaborations with other DAOs. Other DAOs might benefit by having the whole process end-to-end publicly held. Furthermore, a deal can be taken public to receive public comments and be taken back to private for further negotiation in light of the feedback.
 
