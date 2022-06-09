@@ -4,7 +4,7 @@ The wizard will guide you through the process of creating a Partnered Deal.
 
 Please note that you can always come back to edit your input before you click the <kbd>SUBMIT</kbd> button on the last step of the wizard
 
-Please note that if your DAO wants to use the Gnosis Safe App to create and conduct a deal you should follow <a href="/documentation/UsetheGnosisSafeApp">here</a> the detailed walkthorugh that is dedicated to Prime Deals Gnosis Safe App.
+Please note that if your DAO wants to use the Gnosis Safe App to create and conduct a deal you should follow <a href="/documentation/USEDEALSWITHGNOSISSAFE">here</a> the detailed walkthorugh that is dedicated to Prime Deals Gnosis Safe App.
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 

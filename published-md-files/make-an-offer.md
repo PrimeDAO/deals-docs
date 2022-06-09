@@ -2,7 +2,7 @@
 
 If you are interested to submit a DAO as a partner to an Open Proposal you can follow these simple steps below.
 
-Please note that if your DAO wants to use the Gnosis Safe App to participate in a deal you should follow <a href="/documentation/UsetheGnosisSafeApp">here</a> the detailed walkthorugh that is dedicated to Prime Deals Gnosis Safe App.
+Please note that if your DAO wants to use the Gnosis Safe App to participate in a deal you should follow <a href="/documentation/USEDEALSWITHGNOSISSAFE">here</a> the detailed walkthorugh that is dedicated to Prime Deals Gnosis Safe App.
 
 ### Prerequisites
 

@@ -17,4 +17,4 @@ Follow a detailed walkthrough to create for Partnered Deal <a href="/documentati
 
 ## Prerequisite with Gnosis Safe App
 
-If your DAO wants to use the Gnosis Safe App you should follow <a href="/documentation/UsetheGnosisSafeApp">here</a> the detailed walkthorugh to create and conduct deals that is dedicated to Prime Deals Gnosis Safe App.
+If your DAO wants to use the Gnosis Safe App you should follow <a href="/documentation/USEDEALSWITHGNOSISSAFE">here</a> the detailed walkthorugh to create and conduct deals that is dedicated to Prime Deals Gnosis Safe App.

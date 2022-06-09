@@ -41,7 +41,7 @@ Here you find a detailed list of features that you can find in Prime Deals modul
 **Prime Deals is governance framework agnostic**
 
 - It doesn’t matter if you’re running on <a href="https://gnosis-safe.io/" target="_blank" rel="noopener noreferrer">Gnosis Safe</a>, <a href="https://daohaus.club/" target="_blank" rel="noopener noreferrer">Daohaus</a>, or <a href="https://daostack.io/" target="_blank" rel="noopener noreferrer">DAOstack</a> — any governance framework will work with Prime Deals. 
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Prime Deals is now also a Gnosis Safe App and we highly reccommend you to conduct a deal in this way. You can read the dedicated documentation page <a href="/documentation/UsetheGnosisSafeApp">here</a>.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Prime Deals is now also a Gnosis Safe App and we highly reccommend you to conduct a deal in this way. You can read the dedicated documentation page <a href="/documentation/USEDEALSWITHGNOSISSAFE">here</a>.</div>
 
 ### How is Prime Deals unique?
 
