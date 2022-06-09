@@ -12,7 +12,7 @@ With the Safe App a DAO can directly deposit their tokens from the multi-sig wal
 
 By using the Safe App a DAO would need to add the multi-sig as as a sole Representative for that DAO. More Representatives can be added from the webapp during the creation of a deal but that in the vast majority of the cases DAOs will only have one multi-sig Representative to vote, fund, claim or withdraw the tokens.
 
-### How to use Prime Deals Safe App
+## How to use Prime Deals Safe App
 1. Search for "Prime Deals" in the "Apps" section in the [Gnosis Safe](https://gnosis-safe.io/), and click on it.
 2. Accept the disclaimer and authenticate with the multi-sig to Prime Deals
 3. A "signMessage" transaction will be created and it needs to be approved
@@ -21,16 +21,16 @@ By using the Safe App a DAO would need to add the multi-sig as as a sole Represe
 7. Happy swapping!
 
 
-### Known issues
-- I have to wait for another approval, can I close the app, and come back later?
---> Yes you can
+## Known issues
+### I have to wait for another approval, can I close the app, and come back later?
+Yes you can
 
-- "signMessage" transaction in step 3. was rejected, the app is telling me to wait for an approval, how can I authenticate again?
---> Clear your localStorage (you can just delete the Prime deals entry) and try to authenticate again.
+### "signMessage" transaction in step 3. was rejected, the app is telling me to wait for an approval, how can I authenticate again?
+### Clear your localStorage (you can just delete the Prime deals entry) and try to authenticate again.
 
-- A transaction was rejected (e.g. unlock, deposit, withdraw), how can I resubmit it?
---> Please resubmit the desired action in the Prime Deals UI. A new transaction will be created that can be signed again.
+### A transaction was rejected (e.g. unlock, deposit, withdraw), how can I resubmit it?
+Please resubmit the desired action in the Prime Deals UI. A new transaction will be created that can be signed again.
 
-- I triggered an action, and closed the app, or my browser crashed, do I have to re-trigger the action when I revisit the app?
---> No, wait as the UI will automatically update once the transaction has been successfully approved.
+### I triggered an action, and closed the app, or my browser crashed, do I have to re-trigger the action when I revisit the app?
+No, wait as the UI will automatically update once the transaction has been successfully approved.
 
