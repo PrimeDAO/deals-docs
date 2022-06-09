@@ -26,7 +26,7 @@ By using the Safe App a DAO would need to add the multi-sig as as a sole Represe
 Yes you can. Multi-sig approval can take some time. User can close the app or keep it open as regardless, they don't have to wait for the approval to be finished once a transaction has been signed.
 
 ### "signMessage" transaction in step 3. was rejected, the app is telling me to wait for an approval, how can I authenticate again?
-### Clear your localStorage (you can just delete the Prime deals entry) and try to authenticate again.
+Clear your localStorage (you can just delete the Prime deals entry) and try to authenticate again.
 
 ### A transaction was rejected (e.g. unlock, deposit, withdraw), how can I resubmit it?
 Please resubmit the desired action in the Prime Deals UI. A new transaction will be created that can be signed again.
