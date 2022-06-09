@@ -2,6 +2,8 @@
 
 If you are interested to submit a DAO as a partner to an Open Proposal you can follow these simple steps below.
 
+Please note that if your DAO wants to use the Gnosis Safe App to participate in a deal you should follow <a href="/documentation/UsetheGnosisSafeApp">here</a> the detailed walkthorugh that is dedicated to Prime Deals Gnosis Safe App.
+
 ### Prerequisites
 
 Make sure you are connected with your wallet by following the pre-requisite step <a href="/documentation/INITIATEADEAL">here</a>.
@@ -24,8 +26,8 @@ You will also be able to edit different sections depending on how the Open Propo
     - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ/#what-a-proposal-lead-can-and-cannot-do">here</a>.
 2. Provide the **Contact E-mail (optional)**
 3. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
-    - Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
-    - You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representatives can discuss the clauses, regardless if the deal is public or private.
+    - Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representative(s).
+    - You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representative(s) can discuss the clauses, regardless if the deal is public or private.
     - A negotiated deal that has been turned public can be turned back into private, and vice versa.
     - Move into the ‘Partner DAO’ section of the wizard
 
@@ -36,7 +38,7 @@ In this section you can fill in the details of the Partner DAO. This is the DAO 
 1. Provide the **Partner DAO Name**
 2. Provide the **Partner DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Partner DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Partner DAO Representatives**. To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ/#what-deal-representatives-can-and-cannot-do">here</a>. 
+4. Provide the addresses of the **Partner DAO Representative(s)**. To learn more on the role of the DAO Representative(s) please see <a href="/documentation/TokenSwapFAQ/#what-deal-representatives-can-and-cannot-do">here</a>. 
 
 Click <kbd>PROCEED</kbd> at the bottom of the page to move onto the next section
 
@@ -58,7 +60,7 @@ For each type of token that a DAO is open to swap you would need to provide thes
     - Toggle the vesting schedule to define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested once the deal is executed on-chain. The Instant Transfer amount will be immediately sent to the other DAO's treasury address, whereas the Vested amount is the amount of tokens that will be released progressively throughout the total Vesting period defined in the Vesting setup in the next step below.
     - If you have defined a Vested amount, once the deal is executed on-chain, that amount will start to be released linearly throughout the Vesting period. If you define a Cliff period, tokens will not be claimable before the Cliff period ends. If you don't define a Cliff period, tokens will be progressively available to be claimed on a daily basis after the Vesting period starts.
 4. The **Funding Period**
-    - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representatives and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes in consideration the time needed to pass the deals through the governance processes of both parties.
+    - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representative(s) and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes in consideration the time needed to pass the deals through the governance processes of both parties.
 
 Click ‘PROCEED’ at the bottom of the page to move onto the next section
 
@@ -76,6 +78,6 @@ Click <kbd>PROCEED</kbd> at the bottom of the page to move onto the next section
 
 ### Submit
 
-In this section you can visualize a summary of all the information you have input. Please, inspect all parts of the summary byword and make sure they precisely reflect what you want to propose. If you spot an error, you can navigate to previous sections of this wizard to correct them before submitting your proposal. It's your responsibility to verify that all the relevant information is correct (e.g. Treasury address, Deal Representative addresses, Token addresses, Token amount, etc.). PrimeDAO don't offer any validation process to verify your input. For instance, it cannot verifies whether a treasury address is related to a certain DAO. 
+In this section you can visualize a summary of all the information you have input. Please, inspect all parts of the summary byword and make sure they precisely reflect what you want to propose. If you spot an error, you can navigate to previous sections of this wizard to correct them before submitting your proposal. It's your responsibility to verify that all the relevant information is correct (e.g. Treasury address, Deal Representative(s) addresses, Token addresses, Token amount, etc.). PrimeDAO don't offer any validation process to verify your input. For instance, it cannot verifies whether a treasury address is related to a certain DAO. 
 
 When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.

@@ -18,6 +18,8 @@ A Partner DAO is the DAO that is brought by a Primary DAO in a Partnered Deal, o
 ## What is a DAO Treasury Address in a Token Swap?
 
 A DAO Treasury Address is the address that will receive tokens from the other DAO during the token swap. Whenever a vested amount is claimed (by anyone) these tokens are also being sent to the treasury address.
+<br>
+Please note that in the case a DAO is using the Gnosis Safe App, it's reccommended that the Treasury Address and the multi-sig address of the Deal Representative are the same, so that when funding or clamining trasnsactions are signed, funds gets automatically transferred from and to that wallet. You can refer <a href="/documentation/UsetheGnosisSafeApp">here</a> on how funding and claiming works in case a DAO wants to use the Gnosis Safe App.
 
 ## In short, what is the process of a making a Token Swap happen on Prime Deals?
 
@@ -27,15 +29,16 @@ Here is an high-level summary of the most relevant steps in a Token Swap. For an
 2. Provide a brief description of your proposal.
 3. Specify the address of the Proposal Lead and (optionally) contact e-mail. This address will be allowed to edit the deal during the negotiation integrating new points from the conversation.
 4. Decide whether you want to keep private or publicly accessible the details of a deal, please see <a href="/documentation/TokenSwapFAQ/#can-i-set-a-deal-as-private-at-any-stage">here</a> for a detailed description of how privacy settings work. In the case of a Partnered Deal, this will make public or private the whole deal. In the case of an Open Proposal, this setting will make public or private only the incoming offers.
-5. Fill-out the DAO details: the DAO treasury address that will receive the token after the swap, and a list of the address of the DAO representatives who will be able to cast a vote on the deal, either to accept or reject it, fund the deal, as well as claim tokens that will be sent to the treasury address, or withdraw funds they deposited on behalf of their DAO in case the deal is not successful. In case of a Partnered deal, fill-out the same general details for the other DAO.  If you don’t already have a partner DAO choose to start an Open Proposal in step 1., in this way you will be able to find many potential prospects: they will have to provide their own terms and select their own Deal Representatives. 
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Please note that even if Deal Representatives are normally the ones that are exclusively allowed to fund a deal and claim tokens on behalf of the DAO, this is not true if the DAO is using a multi-sig wallet from the Gnosis Safe App to execute these steps. You can refer here (TODO add link) on how funding and claiming works in case a DAO wants to use the Gnosis Safe App.</div>
+5. Fill-out the DAO details: the DAO treasury address that will receive the token after the swap, and a list of the address of the DAO representative(s) who will be able to cast a vote on the deal, either to accept or reject it, fund the deal, as well as claim tokens that will be sent to the treasury address, or withdraw funds they deposited on behalf of their DAO in case the deal is not successful. In case of a Partnered deal, fill-out the same general details for the other DAO.  If you don’t already have a partner DAO choose to start an Open Proposal in step 1., in this way you will be able to find many potential prospects: they will have to provide their own terms and select their own Deal Representative(s).
+<br>
+Please note that in the case a DAO is using the Gnosis Safe App, it's reccommended to have one Deal Representative per DAO that corresponds to the multi-sig address of the wallet being used in Gnosis Safe. You can refer <a href="/documentation/UsetheGnosisSafeApp">here</a> on how funding and claiming works in case a DAO wants to use the Gnosis Safe App.
 6. Setup the details of the token that your DAO wants to swap. First, define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested. Then, configure the vesting schedule specifying over which period they’ll be vested and for how long they won’t be claimable by the other DAO. In case of a Partnered Deal define the same details and vesting schedule for the token they want to swap.
-7. Define the Funding Period, the period of time after the Proposal Lead has declared voting complete, in which the Deal Representative must fully fund, and the Proposal Lead must execute the swap.
+7. Define the Funding Period, the period of time after the Proposal Lead has declared voting complete, in which the Deal Representative(s) must fully fund, and the Proposal Lead must execute the swap.
 8. Define the terms of the deal by specifying the clauses that you want to seal in the agreement.
-9.  Discuss with the two sets of Deal Representatives the clauses. (Note that in an Open Proposal anyone can connect with their address and discuss the clauses. Whereas in a Partnered Deal only Proposal Lead and Deal Representatives can, regardless if the deal is public or private.)
+9.  Discuss with the two sets of Deal Representative(s) the clauses. Note that in an Open Proposal anyone can connect with their address and discuss the clauses. Whereas in a Partnered Deal only Proposal Lead and Deal Representative(s) can, regardless if the deal is public or private.
 10.  Integrate the feedback of the discussion by editing the deal.
 11.  With more than 50% affirmative votes per each DAO, the Proposal Lead may initiate the deal’s funding period. The complete funding of the deal needs to happen before the specified Funding Period ends.
-12.  Let the DAOs’ Representatives to claim vested tokens on behalf of their DAO, or withdraw their deposit in the event the deal do not get fully funded by the end of the Funding Period.
+12.  Let the DAOs’ Representative(s) to claim vested tokens on behalf of their DAO, or withdraw their deposit in the event the deal do not get fully funded by the end of the Funding Period.
 
 ![https://ik.imagekit.io/primedao/PrimeDeals/UML-DEALS-TS_k_Xho8YRS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651689966436](https://ik.imagekit.io/primedao/PrimeDeals/UML-DEALS-TS_k_Xho8YRS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651689966436)
 
@@ -78,7 +81,7 @@ It’s also worth remembering that in the near future Prime Deals will feature a
 
 ## What Deal Representatives can and cannot do?
 
-Deal Representatives have the exclusive right to cast a vote on the deal, either to accept or reject the deal, they can deposit and withdraw funds, and claim tokens on behalf of their DAO.
+Deal Representatives have the exclusive right to cast a vote on the deal, either to accept or reject the deal. They can also deposit and withdraw funds, and claim tokens on behalf of their DAO — something that can be done also from the multi-sig wallet in case the DAO is using the Gnosis Safe App to conduct the deal.
 
 In addition the Deal Representatives, just like the Proposal Lead can discuss the clauses, and they can manually execute the token swap of a deal that has been fully funded.
 
@@ -90,7 +93,7 @@ A Deal Representative can change their vote from accept to reject and vice versa
 
 ## Who can discuss the clauses of a deal?
 
-In an Open Proposal, anyone with a connected wallet can discuss the clauses (Open Proposals cannot be private). On a Partnered Deal only Deal Representatives and Proposal Lead can discuss irrespective of whether the deal is public or private.
+In an Open Proposal, anyone with a connected wallet can discuss the clauses (Open Proposals cannot be private). On a Partnered Deal only Deal Representative(s) and Proposal Lead can discuss irrespective of whether the deal is public or private.
 
 ## What is the Total Amount of Tokens to Swap in a Token Swap?
 
@@ -108,7 +111,7 @@ The Vesting period of a Token Swap always start once the deal is executed on-cha
 
 If you define a Cliff period, tokens will still be linearly released but they won’t be claimable before the Cliff period ends. If you don't define a Cliff period, tokens will be linearly release and progressively available to be claimed after the Vesting period starts.
 
-Since the vesting already starts at the execution of the deal, the Deal Representatives can claim the amount of tokens that has been compounded since the execution of the deal.
+Since the vesting already starts at the execution of the deal, the Deal Representative(s) can claim the amount of tokens that has been compounded since the execution of the deal.
 
 
 ![https://ik.imagekit.io/primedao/PrimeDeals/prime-deals-vesting-graph_TsA0D1opU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651666992668](https://ik.imagekit.io/primedao/PrimeDeals/prime-deals-vesting-graph_TsA0D1opU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651666992668)
@@ -122,9 +125,9 @@ Check the example below to better understand:
 - Cliff Period: 6 months
   - Cliff Period is from Jan 1st til June 30th 
 
-Therefore, DAO Representatives can claim starting on July 1st, after which they can already claim 50% of the vested tokens, since 50% of the time has passed.
+Therefore, DAO Representative(s) can claim starting on July 1st, after which they can already claim 50% of the vested tokens, since 50% of the time has passed.
 
-If you define a Cliff period, tokens will not be claimable by the Deal Representatives before the Cliff period ends.
+If you define a Cliff period, tokens will not be claimable by the Deal Representative(s) before the Cliff period ends.
 
 If you don't define a Cliff period, tokens will be progressively available to be claimed on a daily basis after the deal is executed on-chain.
 
@@ -136,7 +139,7 @@ Note that Vesting and Instant schedules are not related to how the fee is withdr
 
 ## What is the Funding Period in a Token Swap and what should I take in consideration when setting it up?
 
-The Funding Period is the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representatives and the Proposal Lead have failed to do so within this agreed upon timeframe, the deal is considered failed. The Funding Period is setup by the Proposal Lead who should set a reasonable period that takes in consideration the time needed to pass the deals through the governance processes of both parties. 
+The Funding Period is the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representative(s) and the Proposal Lead have failed to do so within this agreed upon timeframe, the deal is considered failed. The Funding Period is setup by the Proposal Lead who should set a reasonable period that takes in consideration the time needed to pass the deals through the governance processes of both parties. 
 
 ## Where do failed deals get archived?
 

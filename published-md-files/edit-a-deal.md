@@ -10,4 +10,4 @@ Review all the information in the summary page that will be prompted at the end 
 
 You will be prompted to provide a signature with your wallet. Sign it and you’re done.
 
-Always remember that editing a Deal reset all votes already casted by the Deal Representatives (except if you merely change the privacy settings).
+Always remember that editing a Deal reset all votes already casted by the Deal Representative(s) (except if you merely change the privacy settings).

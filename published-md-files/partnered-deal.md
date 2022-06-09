@@ -2,7 +2,9 @@
 
 The wizard will guide you through the process of creating a Partnered Deal. 
 
-Please note that you can always come back to edit your input before you click the <kbd>SUBMIT</kbd> button on the last step of the wizard.
+Please note that you can always come back to edit your input before you click the <kbd>SUBMIT</kbd> button on the last step of the wizard
+
+Please note that if your DAO wants to use the Gnosis Safe App to create and conduct a deal you should follow <a href="/documentation/UsetheGnosisSafeApp">here</a> the detailed walkthorugh that is dedicated to Prime Deals Gnosis Safe App.
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/3-create-a-partnered-deal-deals-comp_oPDFXVnFu.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
@@ -20,8 +22,8 @@ You can follow the example of a Partnered Deal linked <a href="/documentation/Cr
     - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ/#what-a-proposal-lead-can-and-cannot-do">here</a>.
 3. Provide the **Contact E-mail (optional)**
 4. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
-    * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representatives.
-    * You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representatives can discuss the clauses, regardless if the deal is public or private.
+    * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representative(s).
+    * You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representative(s) can discuss the clauses, regardless if the deal is public or private.
     * A negotiated deal that has been turned public can be turned back into private, and vice versa.
 
 ## Primary DAO Details
@@ -31,7 +33,7 @@ Fill in the details of the Primary DAO. This is the DAO for which the original p
 1. Provide the **Primary DAO Name**
 2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
 3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
-4. Provide the addresses of the **Primary DAO Representatives**.  To learn more on the role of the DAO Representatives please see <a href="/documentation/TokenSwapFAQ/#what-deal-representatives-can-and-cannot-do">here</a>.
+4. Provide the addresses of the **Primary DAO Representative(s)**.  To learn more on the role of the DAO Representative(s) please see <a href="/documentation/TokenSwapFAQ/#what-deal-representatives-can-and-cannot-do">here</a>.
 
 ### Partner DAO Details
 
@@ -53,7 +55,7 @@ For each type of token that a DAO want to swap you’d need to provide these det
     - Toggle the vesting schedule to define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested once the deal is executed on-chain. The Instant Transfer amount will be immediately sent to the other DAO's treasury address, whereas the Vested amount is the amount of tokens that will be released progressively throughout the total Vesting period defined in the Vesting setup in the next step below.
     - If you have defined a Vested amount, once the deal is executed on-chain, that amount will start to be released linearly throughout the Vesting period. If you define a Cliff period, tokens will not be claimable before the Cliff period ends. If you don't define a Cliff period, tokens will be progressively available to be claimed on a daily basis after the Vesting period starts.
 4. The **Funding Period**
-    - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representatives and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes in consideration the time needed to pass the deals through the governance processes of both parties.
+    - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representative(s) and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes in consideration the time needed to pass the deals through the governance processes of both parties.
 
 ## Terms
 
@@ -240,7 +242,7 @@ How will this partnership be overseen? Who are the individuals responsible for r
     
 *Example*
     
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Governance: The partnership is managed by Deal Representatives of the organizations. The respective governance processes of both DAOs can overwrite any decision by Deal Representatives. In the case of this partnership, there are 2 representatives for each organization.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Partnership Governance: The partnership is managed by Deal Representative(s) of the organizations. The respective governance processes of both DAOs can overwrite any decision by Deal Representative(s). In the case of this partnership, there are 2 representatives for each organization.</div>
 
 What happens when DAOs want to rule over a clause agreed upon on the deal, or use the tokens in a different way than what is specified in the deal?
     

@@ -18,7 +18,7 @@ The `DealManager` contract serves as a central registry, managing and storing th
 
 The `DaoDepositManager` contract serves a similar function to an escrow contract. It can be funded to hold the amount the DAO is contributing to a Deal before it has been executed. After execution, it will hold the agreed-upon vested amount (if applicable) from which the funds can be claimed during and after the vesting period. 
 
-The workings of the vesting mechanism is such that the vesting duration is started automatically right after the deal execution. It locks the tokens for the intended vesting duration in the DAOs `DaoDepositManager`. The function to claim vested tokens can be called through our frontend by all the Deal Representatives without restriction. When calling the claim function in the contract, it will transfer the claimable tokens to the DAOs treasury address, which is stored in the `DaoDepositManager` state at creation time. In this way, no tokens can be sent to other addresses than the DAO treasury.
+The workings of the vesting mechanism is such that the vesting duration is started automatically right after the deal execution. It locks the tokens for the intended vesting duration in the DAOs `DaoDepositManager`. The function to claim vested tokens can be called through our frontend by all the Deal Representative(s) without restriction. When calling the claim function in the contract, it will transfer the claimable tokens to the DAOs treasury address, which is stored in the `DaoDepositManager` state at creation time. In this way, no tokens can be sent to other addresses than the DAO treasury.
 
 A few other things to highlight are:
 
@@ -73,39 +73,39 @@ OR when
 `Negotiating`
 
 - Two DAOs (Primary DAO and Partner DAO) are involved
-- Deal clauses can be discussed by the Proposal Lead and the Deal Representatives
+- Deal clauses can be discussed by the Proposal Lead and the Deal representative(s)s
 - Deal can be modified by the Proposal Lead
 - Edits to the deal automatically resets all votes that have been already casted. The only edit that won’t reset all votes is the change of a deal from private to public.
-- Voting the deal is possible by the Deal Representatives
-- In this phase, voting is in progress (voting rules can be found <a href="/documentation/VoteonaDeal">here</a>). When the majority of the Deal Representatives for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
+- Voting the deal is possible by the Deal Representative(s)
+- In this phase, voting is in progress (voting rules can be found <a href="/documentation/VoteonaDeal">here</a>). When the majority of the Deal Representative(s) for each DAO have favorably voted for the deals, the deal can go in the Funding phase initiated manually in the UI by the Proposal Lead
 
 `Funding` (in Progress)
 
-- Can happen only after the majority of the Deal Representatives for each DAO have voted favorably for the deal
+- Can happen only after the majority of the Deal Representative(s) for each DAO have voted favorably for the deal
 - Can happen only before the end of the specified Funding Period
 - It is initiated only by the Proposal Lead in the UI
 - Depositing and withdrawing of tokens to be swapped can begin
 - Voting and editing the deal is no longer possible
-- The Deal Representatives can deposit from the UI (Note that anyone can technically deposit tokens directly to the contract if they know the address)
-- If the Funding Period is not expired and the all the funds have been successfully collected, the deal become executable by either the Proposal Lead or any of the Deal Representatives in the UI
+- The Deal Representative(s) can deposit from the UI (Note that anyone can technically deposit tokens directly to the contract if they know the address)
+- If the Funding Period is not expired and the all the funds have been successfully collected, the deal become executable by either the Proposal Lead or any of the Deal Representative(s) in the UI
 
 (Token Swap) `Failed`
 
 - The deal never became executable or executed.
 - Discussions are no longer possible
-- Deal Representatives can withdraw their funds if they already allocated some in the escrow
+- Deal Representative(s) can withdraw their funds if they already allocated some in the escrow
 
 It happens when:
 
-- Voting is completed, the Proposal Lead started the Funding phase, but the Deal Representatives failed to fund the deal in the Funding Period specified by the deal
+- Voting is completed, the Proposal Lead started the Funding phase, but the Deal Representative(s) failed to fund the deal in the Funding Period specified by the deal
 
 OR
 
-- Voting is completed and the deal is rejected by the majority of the Deal Representatives for each DAO.
+- Voting is completed and the deal is rejected by the majority of the Deal Representative(s) for each DAO.
 
 OR
 
-- Voting is completed, Proposal Lead initiated Funding phase, Deal Representatives fully funded the deal but the Proposal Lead failed to execute the deal within the given time.
+- Voting is completed, Proposal Lead initiated Funding phase, Deal Representative(s) fully funded the deal but the Proposal Lead failed to execute the deal within the given time.
 
 (Token Swap) `Completed`
 

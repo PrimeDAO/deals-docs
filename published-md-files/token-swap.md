@@ -14,3 +14,7 @@
 Follow a detailed walkthrough to create an Open Proposal <a href="/documentation/CreateanOpenProposal">here</a>.
 
 Follow a detailed walkthrough to create for Partnered Deal <a href="/documentation/CreateaPartneredDeal">here</a>.
+
+## Prerequisite with Gnosis Safe App
+
+If your DAO wants to use the Gnosis Safe App you should follow <a href="/documentation/UsetheGnosisSafeApp">here</a> the detailed walkthorugh to create and conduct deals that is dedicated to Prime Deals Gnosis Safe App.
