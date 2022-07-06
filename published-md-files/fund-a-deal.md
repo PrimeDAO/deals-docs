@@ -1,6 +1,6 @@
 # Fund a Deal
 
-When voting is completed and the Proposal Lead started the funding phase the Deal Representative(s) can transfer the deposit on behalf of their DAO. If the Representative(s) fail to fully fund the deal in the Funding Period specified by the deal
+When voting is completed and the Proposal Lead has started the funding phase the Deal Representative(s) can transfer the deposit on behalf of their DAO. If the Representative(s) fail to fully fund the deal in the Funding Period specified by the deal, the deal will fail.
 
 With more than 50% affirmative votes per each DAO, the Proposal Lead may initiate the deal’s Funding phase which needs to happen before the specified Funding Period ends.
 

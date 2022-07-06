@@ -12,7 +12,7 @@ You can follow the example of a Partnered Deal linked <a href="/documentation/Cr
 
 ## Token Swap Proposal
 
-1. Provide a clear **Proposal Title** that capture the essence of the deal you want to offer (max 60 ch.).
+1. Provide a clear **Proposal Title** that captures the essence of the deal you want to offer (max 60 ch.).
 2. Provide a brief outline of the Token Swap deal in the **Proposal Summary** box (max 350 ch.).
 3. In the **Proposal Description** provide the details, background and features of your Token Swap proposal. Explain why it's particularly valuable or unique.
 
@@ -21,17 +21,17 @@ You can follow the example of a Partnered Deal linked <a href="/documentation/Cr
 1. Provide the Ethereum address for the Proposal Lead who will gain administrative rights of the deal. If you are already connected to the app with the wallet of the intended Proposal Lead, just click <kbd>MAKE ME THE PROPOSAL LEAD</kbd>. 
     - To learn more about the role and rights of a Proposal Lead please see <a href="/documentation/TokenSwapFAQ/#what-a-proposal-lead-can-and-cannot-do">here</a>.
 3. Provide the **Contact E-mail (optional)**
-4. Decide whether you wanna keep this deal and the conversations private, or if you rather keep these publicly accessible.
+4. Decide whether you want to keep this deal and the conversations private, or if you'd rather keep these publicly accessible.
     * Toggle this option on if you DON’T want the public to see what is being discussed by the DAOs. This will make all conversations of this Partnered Deal only visible by the Proposal Lead and the involved Deal Representative(s).
-    * You can always turn the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is turned public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representative(s) can discuss the clauses, regardless if the deal is public or private.
-    * A negotiated deal that has been turned public can be turned back into private, and vice versa.
+    * You can always make the deal to public during the Negotiation phase or after the deal is ratified. Note that conversations previously held in private will remain private, even if the deal is made public. Contrary to an Open Proposal, in a Partnered Deal only Proposal Lead and Deal Representative(s) can discuss the clauses, regardless of whether the deal is public or private.
+    * A negotiated deal that has been made public can be set back to private, and vice versa.
 
 ## Primary DAO Details
 
 Fill in the details of the Primary DAO. This is the DAO for which the original proposal is initiated for.
 
 1. Provide the **Primary DAO Name**
-2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap
+2. Provide the **Primary DAO Treasury Address**, which is the address that will receive the tokens from the other DAO after the swap.
 3. Provide the **Primary DAO Avatar**: a public URL to a small JPG, GIF, PNG or BMP formats image with square aspect ratio with a recommended size of 400x400px and maximum 5MB file size.
 4. Provide the addresses of the **Primary DAO Representative(s)**.  To learn more on the role of the DAO Representative(s) please see <a href="/documentation/TokenSwapFAQ/#what-deal-representatives-can-and-cannot-do">here</a>.
 
@@ -47,15 +47,15 @@ First add the Token details for the Primary DAO, then, move on the Partner DAO s
 
 Click on <kbd>ADD TOKEN +</kbd>, this will open up a box in which you’ll be able to input the Token details.
 
-For each type of token that a DAO want to swap you’d need to provide these details:
+For each type of token that a DAO wants to swap you’d need to provide these details:
 
 1. The native address of the token to swap.
 2. The **Total Amount of Tokens to Swap** which defines the total amount of tokens that will be transferred to the other DAO during the swap. You can adjust this amount at any time before the beginning of the Funding phase of the deal.
 3. The **Instant Transfer Setup and the Vesting setup**
-    - Toggle the vesting schedule to define how much of the tokens are instantly transferred to the other DAO versus how much of your token are vested once the deal is executed on-chain. The Instant Transfer amount will be immediately sent to the other DAO's treasury address, whereas the Vested amount is the amount of tokens that will be released progressively throughout the total Vesting period defined in the Vesting setup in the next step below.
+    - Toggle the vesting schedule to define how many of your tokens are instantly transferred to the other DAO versus how many are vested once the deal is executed on-chain. The Instant Transfer amount will be immediately sent to the other DAO's treasury address, whereas the Vested amount is the amount of tokens that will be released progressively throughout the total Vesting period defined in the Vesting setup in the next step below.
     - If you have defined a Vested amount, once the deal is executed on-chain, that amount will start to be released linearly throughout the Vesting period. If you define a Cliff period, tokens will not be claimable before the Cliff period ends. If you don't define a Cliff period, tokens will be progressively available to be claimed on a daily basis after the Vesting period starts.
 4. The **Funding Period**
-    - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representative(s) and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes in consideration the time needed to pass the deals through the governance processes of both parties.
+    - In this step you can setup the non-extendable number of days that both parties have to complete to fully fund and execute the swap. If the Deal Representative(s) and the Proposal Lead have failed to do that within this agreed upon timeframe, the deal is considered failed. Make sure that you set a reasonable Funding Period that takes into consideration the time needed to pass the deal through the governance processes of both parties.
 
 ## Terms
 
@@ -65,15 +65,15 @@ In this section you have to provide all the important clauses of your proposal (
 2. Write the text of your clause (max 500 ch.)
 3. Click <kbd>SAVE</kbd> to save this clause and move to the next.
 4. You can edit a clause with the <kbd>EDIT</kbd> button.
-5. Make sure have written and saved all clauses
+5. Make sure have written and saved all clauses.
 
 Click <kbd>PROCEED</kbd> at the bottom of the page to move onto the next section
 
 ## Submit
 
-In this section you can visualize a summary of all the information you have input. Please, inspect all parts of the summary byword and make sure they precisely reflect what you want to propose. If you spot an error, you can navigate to previous sections of this wizard to correct them before submitting your proposal. It's your responsibility to verify that all the relevant information is correct (e.g. Treasury address, Deal Representative addresses, Token addresses, Token amount, etc.). PrimeDAO don't offer any validation process to verify your input. For instance, it cannot verifies whether a treasury address is related to a certain DAO. 
+In this section you can visualize a summary of all the information you have input. Please inspect all parts of the summary word by word and make sure they precisely reflect what you want to propose. If you spot an error, you can navigate to previous sections of this wizard to correct them before submitting your proposal. It's your responsibility to verify that all the relevant information is correct (e.g. Treasury address, Deal Representative addresses, Token addresses, Token amount, etc.). PrimeDAO doesn't offer any validation process to verify your input. For instance, it cannot verify whether a treasury address is related to a certain DAO. 
 
-When you are ready click <kbd>SUBMIT</kbd>. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.
+When you are ready, click <kbd>SUBMIT</kbd>. Please be patient as it might require a moment to register your deal. Once successfully registered you will see a box with a confirmation message. You can now visit the deal page and share the link to have other people join.
 
 # *Example* of a Partnered Deal input
 
@@ -203,7 +203,7 @@ Is there an agreement for how to utilize the swapped tokens?
 
 *Example*
     
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To align governance interests, between the two organizations, the creation of a co-liquidity pool is proposed with the following details; 25,000 $DAO2 tokens would be transferred to DAO1 at the end of this date or deliverable  to bootstrap a DAO1 / DAO2 pool with 50/50 weights and 2,5% trading fees.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To align governance interests between the two organizations, the creation of a co-liquidity pool is proposed with the following details; 25,000 $DAO2 tokens would be transferred to DAO1 at the end of this date or deliverable  to bootstrap a DAO1 / DAO2 pool with 50/50 weights and 2,5% trading fees.</div>
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Right after the conclusion of the DAO1 LBP, DAO1 will seed a pool with the 25,000 $DAO2 tokens and match it with the same $ value in $DAO1 tokens. Once the pool is initiated, DAO1 will transfer 50% of the Liquidity Pool Tokens to DAO2 to complete the transaction.</div>
 
@@ -211,7 +211,7 @@ Is there an agreement for how to utilize the swapped tokens?
 
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">Co-liquidity Provision: To enhance alignment, DAO2 will match the received $DAO1 tokens with an equal value in (x) tokens from its treasury and add it to the %50 DAO1/ %50 DAO2 tokens in Balancer. DAO1 will match the received $DAO2 with an amount of (y) - equal to 25% of the amount received - and add it to the %80 DAO2/ %20 (y) pool in Balancer.</div>
 
-Is there any rules for selling other DAO’s swapped tokens?
+Are there any rules for selling other DAO’s swapped tokens?
     
 *Example*
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">To ensure long-term alignment, DAO1 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO2 ecosystem. And DAO2 will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the DAO1 ecosystem.</div> 

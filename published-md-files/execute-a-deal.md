@@ -2,7 +2,7 @@
 
 <video style="max-width: 100% !important; height: auto !important;" controls preload="auto"><source src="https://ik.imagekit.io/primedao/PrimeDeals/10-execute-deals_VjGKGzGZ2.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-If all funding from both DAOs have been successfully deposited, both Proposal Lead as well as any Deal Representative can execute a deal by following these simple steps:
+If all funding from both DAOs has been successfully deposited, both Proposal Lead as well as any Deal Representative can execute a deal by following these simple steps:
 
 1. Scroll to ‘Token Swap Status’ area on the middle section of the deal page 
 2. Click on the button <kbd>EXECUTE SWAP</kbd>. 
