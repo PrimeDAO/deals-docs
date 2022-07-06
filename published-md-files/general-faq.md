@@ -10,7 +10,7 @@ The first release of Prime Deals will be operating exclusively on Mainnet. In Ju
 
 ## What other services does PrimeDAO provide?
 
-PrimeDAO can help you successfully craft your deal and offer you additional support if needed.  You can inquire about this by reaching out in the <a href="https://discord.com/invite/x8v59pG" target="_blank" rel="noopener noreferrer">PrimeDAO Discord Server</a>.
+PrimeDAO can help you successfully craft your deal and offer you additional support if needed. You can inquire about this by reaching out in the <a href="https://discord.com/invite/x8v59pG" target="_blank" rel="noopener noreferrer">PrimeDAO Discord Server</a>.
 
 It’s also important to remember that PrimeDAO offers a few other products to support your DAO to evolve:
 
@@ -32,4 +32,8 @@ If you have specific support requests related to Prime Deals you can reach out t
 
 ## What is a DAOplomat?
 
-The notion of ‘DAOplomat’ refers to any entity internal or external to a DAO who have the interest to bring the two parties together to make the deal happen, and offer themselves as a Proposal Lead. Soon, DAOplomats will be able to earn rewards. This upcoming feature makes it financially interesting for people to intercept and foster potential deal making between DAOs.
+The notion of ‘DAOplomat’ refers to any entity internal or external to a DAO who brings the two parties together to make a deal happen, and may offer themselves as a Proposal Lead. 
+
+DAOplomats are intermediating agents between two or more DAOs that facilitate, lead, and negotiate deals and partnerships between them by coordinating and communicating with the representatives of each organization.
+
+Soon, DAOplomats will be able to earn rewards. This upcoming feature makes it financially interesting for people to intercept and foster potential deal making between DAOs.

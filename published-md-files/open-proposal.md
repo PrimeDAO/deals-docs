@@ -40,7 +40,7 @@ In this section of the wizard you have to fill in the details of the token(s) th
 
 Please note that filling out this section is **OPTIONAL** for Open Proposals: you can start filling the information you have and you can add more details later.
 
-For each type of token that the DAO is open to swap you’d need to provide these details:
+For each type of token that the DAO is open to swap you’ll need to provide these details:
 
 1. The native address of the token to swap.
 2. The **Total Amount of Tokens to Swap** which defines the total amount of tokens that will be transferred to the other DAO during the swap. You can adjust this amount at any time before the beginning of the Funding phase of the deal.
