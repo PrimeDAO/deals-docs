@@ -14,11 +14,12 @@ By using the Safe App a DAO would need to add the multi-sig as as a sole Represe
 
 ## How to use Prime Deals Safe App
 1. Search for "Prime Deals" in the "Apps" section in the [Gnosis Safe](https://gnosis-safe.io/), and click on it.
-<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">If you don't find it in the Safe marketplace, you can add it as a custom app by clicking on <kbd>Add custom app</kbd> on the top of the All Apps view in the "Apps section". You will be prompted to provide the App URL. You can use https://deals.prime.xyz.</div>
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">N.B. If you don't find the App in the Safe marketplace, you can always add it as a custom app by clicking on <kbd>Add custom app</kbd> on the top of the 'All Apps' view in the 'Apps' section. You will be prompted to provide the App URL. You can use `https://deals.prime.xyz`   .</div>
 2. Accept the disclaimer and authenticate with the multi-sig to Prime Deals
-3. A "signMessage" transaction will be created and it needs to be approved
+3. A `signMessage` transaction will be created and it needs to be approved
 4. Once approved you are authenticated to Prime Deals
-5. You can now interact with the app, voting as well as depositing, claiming and withdrawing tokens will work in the same way as described in the other section of Prime Deals documentation. Just remind that Unlocking, depositing, withdrawing etc. will generate corresponding transactions on the Gnosis App ("approve", "deposit", "claimDealVestings"), that follow the same flow as step 3.
+5. You can now interact with the app, voting as well as depositing, claiming and withdrawing tokens will work in the same way as described in the other section of Prime Deals documentation. 
+Just remind that unlocking, depositing, withdrawing etc. will generate corresponding transactions on the Safe App (`approve`, `deposit`, `claimDealVestings`), that follow the same flow as step 3.
 7. Happy swapping!
 
 
