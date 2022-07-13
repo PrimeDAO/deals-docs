@@ -14,6 +14,7 @@ By using the Safe App a DAO would need to add the multi-sig as as a sole Represe
 
 ## How to use Prime Deals Safe App
 1. Search for "Prime Deals" in the "Apps" section in the [Gnosis Safe](https://gnosis-safe.io/), and click on it.
+<div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">If you don't find it in the Safe marketplace, you can add it as a custom app by clicking on <kbd>Add custom app</kbd> on the top of the All Apps view in the "Apps section". You will be prompted to provide the App URL. You can use https://deals.prime.xyz.</div>
 2. Accept the disclaimer and authenticate with the multi-sig to Prime Deals
 3. A "signMessage" transaction will be created and it needs to be approved
 4. Once approved you are authenticated to Prime Deals
