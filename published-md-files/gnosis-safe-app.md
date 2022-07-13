@@ -8,9 +8,12 @@ Using Gnosis Safe couples even deeper governance processes already exising in a 
 
 With the Prime Deals Safe App you can initiate and conduct deals in the same way is documented for the normal webapp ~ so you can reference the rest of the documentation as well once you understood the key differences in the workflow with the Safe App.
 
-With the Safe App a DAO can directly deposit their tokens from the multi-sig wallet into the DaoDepositManager module of the Prime Deals smart contract.
+## Voting, Funding, Claiming and Withdrawing with the Safe App
+With the Gnosis Safe App a DAO can directly deposit their tokens from the multi-sig wallet into the `DaoDepositManager` module of the Prime Deals smart contract.
 
-By using the Safe App a DAO would need to add the multi-sig as as a sole Representative for that DAO. More Representatives can be added from the webapp during the creation of a deal but that in the vast majority of the cases DAOs will only have one multi-sig Representative to vote, fund, claim or withdraw the tokens.
+Normally, without the Safe App, the DAO would have to make sure that the DAO Representative(s) have the tokens to fund the deal which would normally require the extra step of moving the funds from the Treasury to the Representatives before ultimately deposit these funds into the deal. Instead, by using the Safe App, a DAO would only need to add the multi-sig as as a sole Representative for that DAO in order to be able to directly fund the deal. It goes without saying that this is a faster and leaner process as the DAO would likely want to appoint as sole Representative the multi-sig which is also the treasury address. Intuitively, the voting process will also rely on the already existing alignment of the respective DAOs' governance systems.
+
+If needed more Representatives can be added from the webapp during the creation of a deal but by using the Safe App this is no longer necessary as a DAO will only need one multi-sig Representative to vote, fund, claim or withdraw the tokens. Also please note that you can sign the multi-sig or another address as the Proposal Lead. It's completely up to you.
 
 ## How to use Prime Deals Safe App
 1. Search for 'Prime Deals' in the 'Apps' section in the [Gnosis Safe](https://gnosis-safe.io/), and click on it.
@@ -21,6 +24,8 @@ By using the Safe App a DAO would need to add the multi-sig as as a sole Represe
 5. You can now interact with the app, voting as well as depositing, claiming and withdrawing tokens will work in the same way as described in the other section of Prime Deals documentation. 
 Just remind that unlocking, depositing, withdrawing etc. will generate corresponding transactions on the Safe App (`approve`, `deposit`, `claimDealVestings`), that follow the same flow as step 3.
 7. Happy swapping!
+
+
 
 
 ## Known issues
