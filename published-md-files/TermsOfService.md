@@ -32,7 +32,7 @@ Please read these Terms carefully before participating on the Prime Deals platfo
 
 ## WHAT YOU NEED TO USE OUR PLATFORM ##
 
-4.1. A detailed step-by-step guide on how to use the Platform can be found in the "Prime Deals Documentation - https://www.prime.xyz/deals/docs" section on the Platform.
+4.1. A detailed step-by-step guide on how to use the Platform can be found in the "Prime Deals Documentation - `https://deals.prime.xyz/documentation` section on the Platform.
 
 4.2 To use the Platform, you need:
 
