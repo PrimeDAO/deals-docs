@@ -1,7 +1,9 @@
 # Smart Contracts Architecture
 
 ## What is the smart contract architecture behind Prime Deals?
-The Prime Deals smart contracts can be at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deals contracts repository</a>.
+The Prime Deals smart contracts can be reviewed at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deals contracts repository</a>.
+
+For a detailed flow and break-down of the contracts <a href="https://miro.com/app/board/uXjVOOkho5Y=/?moveToWidget=3458764523239599066&cot=14" target="_blank" rel="noopener noreferrer">you can consult this Miro board</a>
 
 The Prime Deals smart contract architecture has been designed with non-custodianship, trustlessness, extensibility, and security in mind. Future modules can be added to Deals as they are being built, without having to make structural changes in the underlying architecture. Our first module is the `TokenSwapModule`. To keep the description of the architecture general, the wording `DealModule`  instead of `TokenSwapModule` is used below.
 
@@ -11,15 +13,21 @@ The Prime Deals architecture consists of three main components. These are:
 - `DaoDepositManager`
 - `DealModule`
 
+![https://ik.imagekit.io/primedao/PrimeDeals/Frame_1_1__6xmyKnMy5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658137859171](https://ik.imagekit.io/primedao/PrimeDeals/Frame_1_1__6xmyKnMy5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658137859171)
+
 ### Deal Manager
 
 The `DealManager` contract serves as a central registry, managing and storing the addresses of all the contracts involved in Prime Deals. It activates and deactivates new Deals modules and creates `DaoDepositManager`contracts. The `DealManager` is also used in a multitude of authentication processes to make sure that all the contracts involved in Prime Deals are verified contracts part of the Deals Modules. The `DealManager` is governed and managed by PrimeDAO which can add new modules, change fees or intervene in the whole contract to manage extreme events and disasters. **However, this does not grant PrimeDAO with the power to touch any funds or modify deals, as the protocol remains trustless.**
+
+![https://ik.imagekit.io/primedao/PrimeDeals/Frame_2_1__253z8EFe_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658137859017](https://ik.imagekit.io/primedao/PrimeDeals/Frame_2_1__253z8EFe_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658137859017)
 
 ### DaoDepositManager
 
 The `DaoDepositManager` contract serves a similar function to an escrow contract. It can be funded to hold the amount the DAO is contributing to a Deal before it has been executed. After execution, it will hold the agreed-upon vested amount (if applicable) from which the funds can be claimed during and after the vesting period. 
 
 The workings of the vesting mechanism are such that the vesting duration is started automatically right after the deal execution. It locks the tokens for the intended vesting duration in the DAOs `DaoDepositManager`. The function to claim vested tokens can be called through our frontend by all the Deal Representative(s) without restriction. When calling the claim function in the contract, it will transfer the claimable tokens to the DAOs treasury address, which is stored in the `DaoDepositManager` state at creation time. In this way, no tokens can be sent to addresses other than the DAO treasury.
+
+![https://ik.imagekit.io/primedao/PrimeDeals/Frame_3_1__YV4maNTs-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658137859145](https://ik.imagekit.io/primedao/PrimeDeals/Frame_3_1__YV4maNTs-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658137859145)
 
 A few other things to highlight are:
 
