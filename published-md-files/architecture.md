@@ -1,6 +1,7 @@
 # Smart Contracts Architecture
 
 ## What is the smart contract architecture behind Prime Deals?
+The Prime Deals smart contracts can be at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deals contracts repository</a>.
 
 The Prime Deals smart contract architecture has been designed with non-custodianship, trustlessness, extensibility, and security in mind. Future modules can be added to Deals as they are being built, without having to make structural changes in the underlying architecture. Our first module is the `TokenSwapModule`. To keep the description of the architecture general, the wording `DealModule`  instead of `TokenSwapModule` is used below.
 
