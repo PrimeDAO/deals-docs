@@ -3,7 +3,7 @@
 ## What is the smart contract architecture behind Prime Deals?
 The Prime Deals smart contracts can be reviewed at the <a href="https://github.com/PrimeDAO/deals-contracts" target="_blank" rel="noopener noreferrer">Prime Deals contracts repository</a>.
 
-For a detailed flow and break-down of the contracts <a href="https://miro.com/app/board/uXjVOOkho5Y=/?moveToWidget=3458764523239599066&cot=14" target="_blank" rel="noopener noreferrer">you can consult this Miro board</a>
+For a detailed flow and break-down of the contracts <a href="https://miro.com/app/board/uXjVOOkho5Y=/?moveToWidget=3458764523239599066&cot=14" target="_blank" rel="noopener noreferrer">you can consult this Miro board</a>.
 
 The Prime Deals smart contract architecture has been designed with non-custodianship, trustlessness, extensibility, and security in mind. Future modules can be added to Deals as they are being built, without having to make structural changes in the underlying architecture. Our first module is the `TokenSwapModule`. To keep the description of the architecture general, the wording `DealModule`  instead of `TokenSwapModule` is used below.
 
