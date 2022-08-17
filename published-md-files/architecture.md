@@ -136,7 +136,9 @@ This is an updated list of error messages that can be printed on screen while tr
 - `100` :  Invalid input address 
 - `101` :  Input value cannot be empty 
 - `102` :  Input arrays length mismatch 
-- `103` :  Amounts mismatch 
+- `103` :  Amounts mismatch
+- `104` :  Input has duplicates
+- `105` :  Invalid array length
 
 ## Prime Deals specific
 
@@ -161,7 +163,7 @@ This is an updated list of error messages that can be printed on screen while tr
 
 - `240` :  No withdrawable amount available 
 - `241` :  ERC20 token transfer failed 
-- `242` :  ETH transfer failed ~
+- `242` :  ETH transfer failed
 - `243` :  ERC20 token approve failed 
 - `244` :  Claimable amounts mismatch 
 - `245` :  Invalid balance 
@@ -174,4 +176,6 @@ This is an updated list of error messages that can be printed on screen while tr
 - `263`  :  Function call only available for ERC20 tokens
 - `264`  :  Fee cannot be more then 20%
 - `265` :  Swap is not executable
-- `266` :  Deal status is not ACTIVE 
+- `266` :  Deal status is not ACTIVE
+- `267` :  Number of DAOplomats that receive the reward cannot be biger than 8
+- `268` :  Combined DAOplomat reward cannot be bigger than 5%
