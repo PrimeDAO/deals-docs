@@ -31,22 +31,16 @@ Finally, please note that you can sign the multi-sig or another address as the P
 1. Search for 'Prime Deals' in the 'Apps' section in the [Gnosis Safe](https://gnosis-safe.io/), and click on it.
 <div class="sample"; style="border: 1px solid #EBA7DA; border-radius: 5px; padding: 5px;font-family: monospace; margin: 18px;">N.B. If you don't find the App in the Safe marketplace, you can always add it as a custom app by clicking on <kbd>Add custom app</kbd> on the top of the 'All Apps' view in the 'Apps' section. You will be prompted to provide the App URL. You can use `https://deals.prime.xyz`.</div>
 2. Accept the disclaimer and authenticate with the multi-sig to Prime Deals
-3. A `signMessage` transaction will be created and queued in Gnosis Safe under the 'Transactions' tab and it needs to be approved.
-4. Once approved you are authenticated to Prime Deals
-5. You can now interact with the app, voting as well as depositing, claiming and withdrawing tokens will work in the same way as described in the other section of Prime Deals documentation. 
-Just remind that unlocking, depositing, withdrawing, claiming etc. will generate corresponding transactions that will be queued on the Safe App under the 'Transactions' tab (`approve`, `deposit`, `claimDealVestings`), that follow the same flow as step 3.
-7. Happy swapping!
+3. You can now interact with the app, voting as well as depositing, claiming and withdrawing tokens will work in the same way as described in the other section of Prime Deals documentation. 
+Just remind that unlocking, depositing, withdrawing, claiming etc. will generate corresponding transactions that will be queued on the Safe App under the 'Transactions' tab (`approve`, `deposit`, `claimDealVestings`).
+4. Happy swapping!
 
 ## Known issues
 ### I have to wait for another approval, can I close the app, and come back later?
 Yes you can. Multi-sig approval can take some time. User can close the app or keep it open as regardless, they don't have to wait for the approval to be finished once a transaction has been signed.
-
-### `signMessage` transaction in step 3. was rejected, the app is telling me to wait for an approval, how can I authenticate again?
-Clear your `localStorage` from your browser's DevTools and try to authenticate again. You can just delete the Prime deals key-value pair. 
 
 ### A transaction was rejected (e.g. unlock, deposit, withdraw), how can I resubmit it?
 Please resubmit the desired action in the Prime Deals UI. A new transaction will be created that can be signed again.
 
 ### I triggered an action, and closed the app, or my browser crashed, do I have to re-trigger the action when I revisit the app?
 No, wait as the UI will automatically update once the transaction has been successfully approved.
-
