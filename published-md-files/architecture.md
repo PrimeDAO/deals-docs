@@ -161,7 +161,7 @@ This is an updated list of error messages that can be printed on screen while tr
 
 - `240` :  No withdrawable amount available 
 - `241` :  ERC20 token transfer failed 
-- `242` :  ETH transfer failed 
+- `242` :  ETH transfer failed ~
 - `243` :  ERC20 token approve failed 
 - `244` :  Claimable amounts mismatch 
 - `245` :  Invalid balance 
